@@ -27,4 +27,4 @@ for input in inputs
 	end
 end
 
-puts "The password using method 0x434C49434B, is: #{@password}"
+puts "The password detected, is: #{@password}"

@@ -1,0 +1,5928 @@
+Input: L1 | Pointer: 49
+Input: R43 | Pointer: 92
+Input: R6 | Pointer: 98
+Input: R50 | Pointer: 48
+Input: R47 | Pointer: 95
+Input: R18 | Pointer: 13
+Input: L12 | Pointer: 1
+Input: L21 | Pointer: 80
+Input: R21 | Pointer: 1
+Input: R38 | Pointer: 39
+Input: R15 | Pointer: 54
+Input: R1 | Pointer: 55
+Input: L19 | Pointer: 36
+Input: R36 | Pointer: 72
+Input: L33 | Pointer: 39
+Input: R25 | Pointer: 64
+Input: L6 | Pointer: 58
+Input: R25 | Pointer: 83
+Input: L7 | Pointer: 76
+Input: L44 | Pointer: 32
+Input: R16 | Pointer: 48
+Input: L43 | Pointer: 5
+Input: R27 | Pointer: 32
+Input: L26 | Pointer: 6
+Input: R17 | Pointer: 23
+Input: R32 | Pointer: 55
+Input: R49 | Pointer: 4
+Input: L39 | Pointer: 65
+Input: R22 | Pointer: 87
+Input: L1 | Pointer: 86
+Input: L10 | Pointer: 76
+Input: R24 | Pointer: 0
+> password current: 0
+Input: L23 | Pointer: 77
+Input: R10 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 1
+Input: L34 | Pointer: 66
+Input: L34 | Pointer: 32
+Input: L32 | Pointer: 0
+> password current: 2
+Input: R2 | Pointer: 2
+Input: L14 | Pointer: 88
+Input: L26 | Pointer: 62
+Input: L46 | Pointer: 16
+Input: L42 | Pointer: 74
+Input: R35 | Pointer: 9
+Input: R21 | Pointer: 30
+Input: R38 | Pointer: 68
+Input: L8 | Pointer: 60
+Input: L15 | Pointer: 45
+Input: L29 | Pointer: 16
+Input: L52 | Pointer: 64
+Input: L10 | Pointer: 54
+Input: L54 | Pointer: 0
+> password current: 3
+Input: R7 | Pointer: 7
+Input: R35 | Pointer: 42
+Input: L16 | Pointer: 26
+Input: L99 | Pointer: 27
+Input: L60 | Pointer: 67
+Input: R33 | Pointer: 0
+> password current: 4
+Input: L38 | Pointer: 62
+Input: L62 | Pointer: 0
+> password current: 5
+Input: L5 | Pointer: 95
+Input: L42 | Pointer: 53
+Input: L53 | Pointer: 0
+> password current: 6
+Input: R33 | Pointer: 33
+Input: L68 | Pointer: 65
+Input: L27 | Pointer: 38
+Input: R19 | Pointer: 57
+Input: L57 | Pointer: 0
+> password current: 7
+Input: R36 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 8
+Input: L27 | Pointer: 73
+Input: R84 | Pointer: 57
+Input: R32 | Pointer: 89
+Input: R11 | Pointer: 0
+> password current: 9
+Input: L39 | Pointer: 61
+Input: L22 | Pointer: 39
+Input: L11 | Pointer: 28
+Input: R72 | Pointer: 0
+> password current: 10
+Input: R78 | Pointer: 78
+Input: L3 | Pointer: 75
+Input: L75 | Pointer: 0
+> password current: 11
+Input: L52 | Pointer: 48
+Input: R71 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 12
+Input: R59 | Pointer: 59
+Input: L73 | Pointer: 86
+Input: R62 | Pointer: 48
+Input: L57 | Pointer: 91
+Input: L56 | Pointer: 35
+Input: L99 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 13
+Input: R63 | Pointer: 63
+Input: R64 | Pointer: 27
+Input: L77 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 14
+Input: R57 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 15
+Input: R86 | Pointer: 86
+Input: L86 | Pointer: 0
+> password current: 16
+Input: R9 | Pointer: 9
+Input: L9 | Pointer: 0
+> password current: 17
+Input: R95 | Pointer: 95
+Input: R430 | Pointer: 25
+Input: L5 | Pointer: 20
+Input: R27 | Pointer: 47
+Input: R86 | Pointer: 33
+Input: R67 | Pointer: 0
+> password current: 18
+Input: L97 | Pointer: 3
+Input: L29 | Pointer: 74
+Input: L993 | Pointer: 81
+Input: L14 | Pointer: 67
+Input: L27 | Pointer: 40
+Input: R21 | Pointer: 61
+Input: L205 | Pointer: 56
+Input: R913 | Pointer: 69
+Input: R74 | Pointer: 43
+Input: R57 | Pointer: 0
+> password current: 19
+Input: R63 | Pointer: 63
+Input: L754 | Pointer: 9
+Input: R791 | Pointer: 0
+> password current: 20
+Input: L21 | Pointer: 79
+Input: L28 | Pointer: 51
+Input: R91 | Pointer: 42
+Input: L63 | Pointer: 79
+Input: L79 | Pointer: 0
+> password current: 21
+Input: R61 | Pointer: 61
+Input: R61 | Pointer: 22
+Input: L622 | Pointer: 0
+> password current: 22
+Input: L58 | Pointer: 42
+Input: L69 | Pointer: 73
+Input: R879 | Pointer: 52
+Input: L64 | Pointer: 88
+Input: L718 | Pointer: 70
+Input: L23 | Pointer: 47
+Input: L47 | Pointer: 0
+> password current: 23
+Input: R26 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 24
+Input: R30 | Pointer: 30
+Input: R46 | Pointer: 76
+Input: R74 | Pointer: 50
+Input: R850 | Pointer: 0
+> password current: 25
+Input: R53 | Pointer: 53
+Input: L775 | Pointer: 78
+Input: L78 | Pointer: 0
+> password current: 26
+Input: R8 | Pointer: 8
+Input: L21 | Pointer: 87
+Input: R713 | Pointer: 0
+> password current: 27
+Input: L95 | Pointer: 5
+Input: L27 | Pointer: 78
+Input: R37 | Pointer: 15
+Input: L9 | Pointer: 6
+Input: L36 | Pointer: 70
+Input: R10 | Pointer: 80
+Input: L96 | Pointer: 84
+Input: R34 | Pointer: 18
+Input: L27 | Pointer: 91
+Input: L36 | Pointer: 55
+Input: R45 | Pointer: 0
+> password current: 28
+Input: R33 | Pointer: 33
+Input: L93 | Pointer: 40
+Input: R60 | Pointer: 0
+> password current: 29
+Input: L97 | Pointer: 3
+Input: R3 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 30
+Input: R8 | Pointer: 8
+Input: R50 | Pointer: 58
+Input: R67 | Pointer: 25
+Input: R975 | Pointer: 0
+> password current: 31
+Input: R83 | Pointer: 83
+Input: L27 | Pointer: 56
+Input: L42 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 32
+Input: R904 | Pointer: 4
+Input: L30 | Pointer: 74
+Input: L81 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 33
+Input: L43 | Pointer: 57
+Input: R612 | Pointer: 69
+Input: L67 | Pointer: 2
+Input: L7 | Pointer: 95
+Input: R45 | Pointer: 40
+Input: R63 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 34
+Input: R41 | Pointer: 41
+Input: R29 | Pointer: 70
+Input: L224 | Pointer: 46
+Input: R56 | Pointer: 2
+Input: L38 | Pointer: 64
+Input: L64 | Pointer: 0
+> password current: 35
+Input: R63 | Pointer: 63
+Input: L21 | Pointer: 42
+Input: L94 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 36
+Input: L61 | Pointer: 39
+Input: L39 | Pointer: 0
+> password current: 37
+Input: R892 | Pointer: 92
+Input: L92 | Pointer: 0
+> password current: 38
+Input: R775 | Pointer: 75
+Input: L28 | Pointer: 47
+Input: R91 | Pointer: 38
+Input: R70 | Pointer: 8
+Input: R87 | Pointer: 95
+Input: L52 | Pointer: 43
+Input: R57 | Pointer: 0
+> password current: 39
+Input: R97 | Pointer: 97
+Input: L27 | Pointer: 70
+Input: L97 | Pointer: 73
+Input: L673 | Pointer: 0
+> password current: 40
+Input: R44 | Pointer: 44
+Input: R63 | Pointer: 7
+Input: L96 | Pointer: 11
+Input: L7 | Pointer: 4
+Input: L36 | Pointer: 68
+Input: R2 | Pointer: 70
+Input: R25 | Pointer: 95
+Input: R44 | Pointer: 39
+Input: L54 | Pointer: 85
+Input: L85 | Pointer: 0
+> password current: 41
+Input: L89 | Pointer: 11
+Input: L61 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 42
+Input: R17 | Pointer: 17
+Input: L35 | Pointer: 82
+Input: L382 | Pointer: 0
+> password current: 43
+Input: R67 | Pointer: 67
+Input: L928 | Pointer: 39
+Input: L12 | Pointer: 27
+Input: L553 | Pointer: 74
+Input: R26 | Pointer: 0
+> password current: 44
+Input: R7 | Pointer: 7
+Input: R93 | Pointer: 0
+> password current: 45
+Input: L10 | Pointer: 90
+Input: R10 | Pointer: 0
+> password current: 46
+Input: R92 | Pointer: 92
+Input: R257 | Pointer: 49
+Input: L5 | Pointer: 44
+Input: R72 | Pointer: 16
+Input: R84 | Pointer: 0
+> password current: 47
+Input: L98 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 48
+Input: L823 | Pointer: 77
+Input: R85 | Pointer: 62
+Input: L50 | Pointer: 12
+Input: L412 | Pointer: 0
+> password current: 49
+Input: L80 | Pointer: 20
+Input: R227 | Pointer: 47
+Input: L354 | Pointer: 93
+Input: L93 | Pointer: 0
+> password current: 50
+Input: L4 | Pointer: 96
+Input: L796 | Pointer: 0
+> password current: 51
+Input: L834 | Pointer: 66
+Input: R62 | Pointer: 28
+Input: L903 | Pointer: 25
+Input: L46 | Pointer: 79
+Input: L79 | Pointer: 0
+> password current: 52
+Input: R428 | Pointer: 28
+Input: L28 | Pointer: 0
+> password current: 53
+Input: L20 | Pointer: 80
+Input: L139 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 54
+Input: R82 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 55
+Input: R87 | Pointer: 87
+Input: R99 | Pointer: 86
+Input: R14 | Pointer: 0
+> password current: 56
+Input: R970 | Pointer: 70
+Input: R30 | Pointer: 0
+> password current: 57
+Input: L58 | Pointer: 42
+Input: L54 | Pointer: 88
+Input: L29 | Pointer: 59
+Input: L54 | Pointer: 5
+Input: L5 | Pointer: 0
+> password current: 58
+Input: R43 | Pointer: 43
+Input: L685 | Pointer: 58
+Input: R542 | Pointer: 0
+> password current: 59
+Input: R618 | Pointer: 18
+Input: R482 | Pointer: 0
+> password current: 60
+Input: L536 | Pointer: 64
+Input: L43 | Pointer: 21
+Input: R36 | Pointer: 57
+Input: R27 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 61
+Input: R37 | Pointer: 37
+Input: L14 | Pointer: 23
+Input: L14 | Pointer: 9
+Input: L73 | Pointer: 36
+Input: R5 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 62
+Input: L21 | Pointer: 79
+Input: L779 | Pointer: 0
+> password current: 63
+Input: R39 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 64
+Input: L99 | Pointer: 1
+Input: L58 | Pointer: 43
+Input: L484 | Pointer: 59
+Input: R3 | Pointer: 62
+Input: L36 | Pointer: 26
+Input: R37 | Pointer: 63
+Input: L99 | Pointer: 64
+Input: L64 | Pointer: 0
+> password current: 65
+Input: R94 | Pointer: 94
+Input: R34 | Pointer: 28
+Input: L28 | Pointer: 0
+> password current: 66
+Input: L9 | Pointer: 91
+Input: R45 | Pointer: 36
+Input: L23 | Pointer: 13
+Input: L65 | Pointer: 48
+Input: R91 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 67
+Input: L880 | Pointer: 20
+Input: L16 | Pointer: 4
+Input: L104 | Pointer: 0
+> password current: 68
+Input: R76 | Pointer: 76
+Input: R23 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 69
+Input: R149 | Pointer: 49
+Input: L47 | Pointer: 2
+Input: R70 | Pointer: 72
+Input: R14 | Pointer: 86
+Input: L16 | Pointer: 70
+Input: R81 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 70
+Input: L33 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 71
+Input: R677 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 72
+Input: L420 | Pointer: 80
+Input: R120 | Pointer: 0
+> password current: 73
+Input: R59 | Pointer: 59
+Input: L59 | Pointer: 0
+> password current: 74
+Input: R90 | Pointer: 90
+Input: L47 | Pointer: 43
+Input: L37 | Pointer: 6
+Input: L6 | Pointer: 0
+> password current: 75
+Input: R71 | Pointer: 71
+Input: L71 | Pointer: 0
+> password current: 76
+Input: R82 | Pointer: 82
+Input: R78 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 77
+Input: R39 | Pointer: 39
+Input: L54 | Pointer: 85
+Input: R82 | Pointer: 67
+Input: L9 | Pointer: 58
+Input: R2 | Pointer: 60
+Input: R41 | Pointer: 1
+Input: R99 | Pointer: 0
+> password current: 78
+Input: R9 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 79
+Input: L69 | Pointer: 31
+Input: R69 | Pointer: 0
+> password current: 80
+Input: L41 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 81
+Input: L482 | Pointer: 18
+Input: R19 | Pointer: 37
+Input: R388 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 82
+Input: L38 | Pointer: 62
+Input: L62 | Pointer: 0
+> password current: 83
+Input: L5 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 84
+Input: L46 | Pointer: 54
+Input: R93 | Pointer: 47
+Input: R645 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 85
+Input: R1 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 86
+Input: L7 | Pointer: 93
+Input: L875 | Pointer: 18
+Input: L807 | Pointer: 11
+Input: L57 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 87
+Input: R55 | Pointer: 55
+Input: R45 | Pointer: 0
+> password current: 88
+Input: L89 | Pointer: 11
+Input: L4 | Pointer: 7
+Input: R11 | Pointer: 18
+Input: R26 | Pointer: 44
+Input: L613 | Pointer: 31
+Input: R469 | Pointer: 0
+> password current: 89
+Input: L60 | Pointer: 40
+Input: R84 | Pointer: 24
+Input: R69 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 90
+Input: R159 | Pointer: 59
+Input: R24 | Pointer: 83
+Input: L47 | Pointer: 36
+Input: R51 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 91
+Input: L878 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 92
+Input: L220 | Pointer: 80
+Input: L29 | Pointer: 51
+Input: R48 | Pointer: 99
+Input: R29 | Pointer: 28
+Input: L37 | Pointer: 91
+Input: R75 | Pointer: 66
+Input: R42 | Pointer: 8
+Input: R87 | Pointer: 95
+Input: L95 | Pointer: 0
+> password current: 93
+Input: R21 | Pointer: 21
+Input: R179 | Pointer: 0
+> password current: 94
+Input: L188 | Pointer: 12
+Input: L54 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 95
+Input: L56 | Pointer: 44
+Input: L46 | Pointer: 98
+Input: L39 | Pointer: 59
+Input: L493 | Pointer: 66
+Input: L74 | Pointer: 92
+Input: R9 | Pointer: 1
+Input: L81 | Pointer: 20
+Input: R24 | Pointer: 44
+Input: L28 | Pointer: 16
+Input: L57 | Pointer: 59
+Input: L46 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 96
+Input: R11 | Pointer: 11
+Input: L22 | Pointer: 89
+Input: L96 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 97
+Input: L94 | Pointer: 6
+Input: L82 | Pointer: 24
+Input: R99 | Pointer: 23
+Input: R12 | Pointer: 35
+Input: R65 | Pointer: 0
+> password current: 98
+Input: L83 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 99
+Input: L47 | Pointer: 53
+Input: L53 | Pointer: 0
+> password current: 100
+Input: L263 | Pointer: 37
+Input: L46 | Pointer: 91
+Input: L5 | Pointer: 86
+Input: R714 | Pointer: 0
+> password current: 101
+Input: R990 | Pointer: 90
+Input: R14 | Pointer: 4
+Input: L53 | Pointer: 51
+Input: L36 | Pointer: 15
+Input: R85 | Pointer: 0
+> password current: 102
+Input: L3 | Pointer: 97
+Input: L97 | Pointer: 0
+> password current: 103
+Input: L66 | Pointer: 34
+Input: R766 | Pointer: 0
+> password current: 104
+Input: L61 | Pointer: 39
+Input: R661 | Pointer: 0
+> password current: 105
+Input: L25 | Pointer: 75
+Input: L5 | Pointer: 70
+Input: R65 | Pointer: 35
+Input: L75 | Pointer: 60
+Input: L560 | Pointer: 0
+> password current: 106
+Input: R72 | Pointer: 72
+Input: R556 | Pointer: 28
+Input: R9 | Pointer: 37
+Input: L7 | Pointer: 30
+Input: R170 | Pointer: 0
+> password current: 107
+Input: R20 | Pointer: 20
+Input: R40 | Pointer: 60
+Input: L860 | Pointer: 0
+> password current: 108
+Input: L21 | Pointer: 79
+Input: R50 | Pointer: 29
+Input: R524 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 109
+Input: L304 | Pointer: 96
+Input: R12 | Pointer: 8
+Input: R41 | Pointer: 49
+Input: L55 | Pointer: 94
+Input: L5 | Pointer: 89
+Input: L48 | Pointer: 41
+Input: R428 | Pointer: 69
+Input: R313 | Pointer: 82
+Input: R68 | Pointer: 50
+Input: R410 | Pointer: 60
+Input: R2 | Pointer: 62
+Input: L687 | Pointer: 75
+Input: R25 | Pointer: 0
+> password current: 110
+Input: R37 | Pointer: 37
+Input: R22 | Pointer: 59
+Input: R12 | Pointer: 71
+Input: L9 | Pointer: 62
+Input: R38 | Pointer: 0
+> password current: 111
+Input: R54 | Pointer: 54
+Input: R243 | Pointer: 97
+Input: L89 | Pointer: 8
+Input: L8 | Pointer: 0
+> password current: 112
+Input: R29 | Pointer: 29
+Input: L66 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 113
+Input: L815 | Pointer: 85
+Input: R115 | Pointer: 0
+> password current: 114
+Input: L69 | Pointer: 31
+Input: R71 | Pointer: 2
+Input: R98 | Pointer: 0
+> password current: 115
+Input: R70 | Pointer: 70
+Input: R31 | Pointer: 1
+Input: L22 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 116
+Input: R47 | Pointer: 47
+Input: R16 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 117
+Input: L80 | Pointer: 20
+Input: L65 | Pointer: 55
+Input: R45 | Pointer: 0
+> password current: 118
+Input: R55 | Pointer: 55
+Input: L355 | Pointer: 0
+> password current: 119
+Input: L23 | Pointer: 77
+Input: L48 | Pointer: 29
+Input: R93 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 120
+Input: L23 | Pointer: 77
+Input: L44 | Pointer: 33
+Input: R24 | Pointer: 57
+Input: L38 | Pointer: 19
+Input: L7 | Pointer: 12
+Input: L12 | Pointer: 0
+> password current: 121
+Input: R73 | Pointer: 73
+Input: L67 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 122
+Input: L13 | Pointer: 87
+Input: L87 | Pointer: 0
+> password current: 123
+Input: R31 | Pointer: 31
+Input: L59 | Pointer: 72
+Input: R54 | Pointer: 26
+Input: R180 | Pointer: 6
+Input: L404 | Pointer: 2
+Input: L776 | Pointer: 26
+Input: R36 | Pointer: 62
+Input: L590 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 124
+Input: L77 | Pointer: 23
+Input: L914 | Pointer: 9
+Input: R54 | Pointer: 63
+Input: L963 | Pointer: 0
+> password current: 125
+Input: R70 | Pointer: 70
+Input: R13 | Pointer: 83
+Input: R517 | Pointer: 0
+> password current: 126
+Input: L46 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 127
+Input: L13 | Pointer: 87
+Input: L28 | Pointer: 59
+Input: R38 | Pointer: 97
+Input: R39 | Pointer: 36
+Input: L36 | Pointer: 0
+> password current: 128
+Input: R33 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 129
+Input: R689 | Pointer: 89
+Input: R85 | Pointer: 74
+Input: R56 | Pointer: 30
+Input: R615 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 130
+Input: L51 | Pointer: 49
+Input: R812 | Pointer: 61
+Input: R39 | Pointer: 0
+> password current: 131
+Input: R83 | Pointer: 83
+Input: L686 | Pointer: 97
+Input: L49 | Pointer: 48
+Input: L48 | Pointer: 0
+> password current: 132
+Input: L82 | Pointer: 18
+Input: L52 | Pointer: 66
+Input: R34 | Pointer: 0
+> password current: 133
+Input: R52 | Pointer: 52
+Input: R88 | Pointer: 40
+Input: L71 | Pointer: 69
+Input: L69 | Pointer: 0
+> password current: 134
+Input: R46 | Pointer: 46
+Input: R54 | Pointer: 0
+> password current: 135
+Input: L17 | Pointer: 83
+Input: R17 | Pointer: 0
+> password current: 136
+Input: R70 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 137
+Input: L641 | Pointer: 59
+Input: L362 | Pointer: 97
+Input: R17 | Pointer: 14
+Input: L6 | Pointer: 8
+Input: L8 | Pointer: 0
+> password current: 138
+Input: R4 | Pointer: 4
+Input: R96 | Pointer: 0
+> password current: 139
+Input: R514 | Pointer: 14
+Input: L20 | Pointer: 94
+Input: L75 | Pointer: 19
+Input: R37 | Pointer: 56
+Input: R37 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 140
+Input: L74 | Pointer: 26
+Input: R56 | Pointer: 82
+Input: L51 | Pointer: 31
+Input: L31 | Pointer: 0
+> password current: 141
+Input: R42 | Pointer: 42
+Input: R94 | Pointer: 36
+Input: L25 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 142
+Input: L31 | Pointer: 69
+Input: L8 | Pointer: 61
+Input: L761 | Pointer: 0
+> password current: 143
+Input: R26 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 144
+Input: L102 | Pointer: 98
+Input: R2 | Pointer: 0
+> password current: 145
+Input: L67 | Pointer: 33
+Input: R3 | Pointer: 36
+Input: R94 | Pointer: 30
+Input: R95 | Pointer: 25
+Input: L47 | Pointer: 78
+Input: L19 | Pointer: 59
+Input: L19 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 146
+Input: R177 | Pointer: 77
+Input: L37 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 147
+Input: L46 | Pointer: 54
+Input: R20 | Pointer: 74
+Input: R126 | Pointer: 0
+> password current: 148
+Input: R89 | Pointer: 89
+Input: R40 | Pointer: 29
+Input: R17 | Pointer: 46
+Input: R876 | Pointer: 22
+Input: R251 | Pointer: 73
+Input: L37 | Pointer: 36
+Input: R758 | Pointer: 94
+Input: R6 | Pointer: 0
+> password current: 149
+Input: R96 | Pointer: 96
+Input: L20 | Pointer: 76
+Input: R24 | Pointer: 0
+> password current: 150
+Input: R472 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 151
+Input: L83 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 152
+Input: R588 | Pointer: 88
+Input: L244 | Pointer: 44
+Input: R312 | Pointer: 56
+Input: R15 | Pointer: 71
+Input: R13 | Pointer: 84
+Input: L284 | Pointer: 0
+> password current: 153
+Input: L36 | Pointer: 64
+Input: L20 | Pointer: 44
+Input: L820 | Pointer: 24
+Input: L14 | Pointer: 10
+Input: R74 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 154
+Input: L49 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 155
+Input: L92 | Pointer: 8
+Input: R86 | Pointer: 94
+Input: R59 | Pointer: 53
+Input: R181 | Pointer: 34
+Input: R66 | Pointer: 0
+> password current: 156
+Input: L74 | Pointer: 26
+Input: R637 | Pointer: 63
+Input: R52 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 157
+Input: L21 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 158
+Input: R83 | Pointer: 83
+Input: R12 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 159
+Input: L83 | Pointer: 17
+Input: R201 | Pointer: 18
+Input: R31 | Pointer: 49
+Input: L63 | Pointer: 86
+Input: L45 | Pointer: 41
+Input: R97 | Pointer: 38
+Input: R22 | Pointer: 60
+Input: R34 | Pointer: 94
+Input: R14 | Pointer: 8
+Input: L542 | Pointer: 66
+Input: L29 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 160
+Input: L521 | Pointer: 79
+Input: R12 | Pointer: 91
+Input: L32 | Pointer: 59
+Input: L956 | Pointer: 3
+Input: L21 | Pointer: 82
+Input: R71 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 161
+Input: R119 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 162
+Input: R56 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 163
+Input: R610 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 164
+Input: R12 | Pointer: 12
+Input: R408 | Pointer: 20
+Input: R580 | Pointer: 0
+> password current: 165
+Input: L68 | Pointer: 32
+Input: R99 | Pointer: 31
+Input: L58 | Pointer: 73
+Input: R23 | Pointer: 96
+Input: R604 | Pointer: 0
+> password current: 166
+Input: R72 | Pointer: 72
+Input: L30 | Pointer: 42
+Input: L89 | Pointer: 53
+Input: R893 | Pointer: 46
+Input: L54 | Pointer: 92
+Input: L92 | Pointer: 0
+> password current: 167
+Input: R51 | Pointer: 51
+Input: L7 | Pointer: 44
+Input: R77 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 168
+Input: L66 | Pointer: 34
+Input: L55 | Pointer: 79
+Input: L96 | Pointer: 83
+Input: R17 | Pointer: 0
+> password current: 169
+Input: R4 | Pointer: 4
+Input: L842 | Pointer: 62
+Input: L62 | Pointer: 0
+> password current: 170
+Input: R53 | Pointer: 53
+Input: R347 | Pointer: 0
+> password current: 171
+Input: L250 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 172
+Input: R34 | Pointer: 34
+Input: R666 | Pointer: 0
+> password current: 173
+Input: R4 | Pointer: 4
+Input: L37 | Pointer: 67
+Input: L724 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 174
+Input: R10 | Pointer: 10
+Input: L110 | Pointer: 0
+> password current: 175
+Input: R1 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 176
+Input: R331 | Pointer: 31
+Input: R435 | Pointer: 66
+Input: R38 | Pointer: 4
+Input: L739 | Pointer: 65
+Input: R82 | Pointer: 47
+Input: R78 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 177
+Input: R1 | Pointer: 1
+Input: R99 | Pointer: 0
+> password current: 178
+Input: L29 | Pointer: 71
+Input: L28 | Pointer: 43
+Input: L906 | Pointer: 37
+Input: R53 | Pointer: 90
+Input: R30 | Pointer: 20
+Input: R93 | Pointer: 13
+Input: L19 | Pointer: 94
+Input: L27 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 179
+Input: R49 | Pointer: 49
+Input: L76 | Pointer: 73
+Input: R15 | Pointer: 88
+Input: L56 | Pointer: 32
+Input: L76 | Pointer: 56
+Input: R11 | Pointer: 67
+Input: L70 | Pointer: 97
+Input: R213 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 180
+Input: R97 | Pointer: 97
+Input: L438 | Pointer: 59
+Input: R55 | Pointer: 14
+Input: L22 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 181
+Input: L42 | Pointer: 58
+Input: R12 | Pointer: 70
+Input: L270 | Pointer: 0
+> password current: 182
+Input: R82 | Pointer: 82
+Input: L279 | Pointer: 3
+Input: L694 | Pointer: 9
+Input: R70 | Pointer: 79
+Input: R41 | Pointer: 20
+Input: R74 | Pointer: 94
+Input: L41 | Pointer: 53
+Input: R71 | Pointer: 24
+Input: L96 | Pointer: 28
+Input: L294 | Pointer: 34
+Input: R59 | Pointer: 93
+Input: L693 | Pointer: 0
+> password current: 183
+Input: L17 | Pointer: 83
+Input: R815 | Pointer: 98
+Input: L99 | Pointer: 99
+Input: R19 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 184
+Input: L81 | Pointer: 19
+Input: R32 | Pointer: 51
+Input: L78 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 185
+Input: L36 | Pointer: 64
+Input: R17 | Pointer: 81
+Input: R97 | Pointer: 78
+Input: R32 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 186
+Input: L85 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 187
+Input: L24 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 188
+Input: L489 | Pointer: 11
+Input: R34 | Pointer: 45
+Input: R355 | Pointer: 0
+> password current: 189
+Input: L99 | Pointer: 1
+Input: L943 | Pointer: 58
+Input: L180 | Pointer: 78
+Input: R22 | Pointer: 0
+> password current: 190
+Input: R38 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 191
+Input: R39 | Pointer: 39
+Input: L239 | Pointer: 0
+> password current: 192
+Input: L54 | Pointer: 46
+Input: L67 | Pointer: 79
+Input: L65 | Pointer: 14
+Input: R81 | Pointer: 95
+Input: L21 | Pointer: 74
+Input: R254 | Pointer: 28
+Input: R30 | Pointer: 58
+Input: R39 | Pointer: 97
+Input: R992 | Pointer: 89
+Input: L54 | Pointer: 35
+Input: L182 | Pointer: 53
+Input: L453 | Pointer: 0
+> password current: 193
+Input: L31 | Pointer: 69
+Input: R31 | Pointer: 0
+> password current: 194
+Input: L18 | Pointer: 82
+Input: L2 | Pointer: 80
+Input: L539 | Pointer: 41
+Input: R4 | Pointer: 45
+Input: R71 | Pointer: 16
+Input: L968 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 195
+Input: R68 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 196
+Input: R10 | Pointer: 10
+Input: R665 | Pointer: 75
+Input: R86 | Pointer: 61
+Input: R31 | Pointer: 92
+Input: L83 | Pointer: 9
+Input: L82 | Pointer: 27
+Input: R73 | Pointer: 0
+> password current: 197
+Input: L81 | Pointer: 19
+Input: L19 | Pointer: 0
+> password current: 198
+Input: R714 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 199
+Input: R96 | Pointer: 96
+Input: R4 | Pointer: 0
+> password current: 200
+Input: R653 | Pointer: 53
+Input: L52 | Pointer: 1
+Input: R920 | Pointer: 21
+Input: R379 | Pointer: 0
+> password current: 201
+Input: R47 | Pointer: 47
+Input: L8 | Pointer: 39
+Input: L36 | Pointer: 3
+Input: R46 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 202
+Input: R32 | Pointer: 32
+Input: L932 | Pointer: 0
+> password current: 203
+Input: R50 | Pointer: 50
+Input: L950 | Pointer: 0
+> password current: 204
+Input: L67 | Pointer: 33
+Input: R405 | Pointer: 38
+Input: L538 | Pointer: 0
+> password current: 205
+Input: L76 | Pointer: 24
+Input: L24 | Pointer: 0
+> password current: 206
+Input: R93 | Pointer: 93
+Input: R53 | Pointer: 46
+Input: L46 | Pointer: 0
+> password current: 207
+Input: R43 | Pointer: 43
+Input: L543 | Pointer: 0
+> password current: 208
+Input: R93 | Pointer: 93
+Input: R2 | Pointer: 95
+Input: R6 | Pointer: 1
+Input: R412 | Pointer: 13
+Input: L93 | Pointer: 20
+Input: L85 | Pointer: 35
+Input: R61 | Pointer: 96
+Input: L57 | Pointer: 39
+Input: R76 | Pointer: 15
+Input: L115 | Pointer: 0
+> password current: 209
+Input: L67 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 210
+Input: L814 | Pointer: 86
+Input: L62 | Pointer: 24
+Input: L24 | Pointer: 0
+> password current: 211
+Input: R73 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 212
+Input: L46 | Pointer: 54
+Input: L14 | Pointer: 40
+Input: R125 | Pointer: 65
+Input: R35 | Pointer: 0
+> password current: 213
+Input: R15 | Pointer: 15
+Input: L31 | Pointer: 84
+Input: L56 | Pointer: 28
+Input: L28 | Pointer: 0
+> password current: 214
+Input: R96 | Pointer: 96
+Input: L98 | Pointer: 98
+Input: R17 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 215
+Input: R53 | Pointer: 53
+Input: R27 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 216
+Input: L31 | Pointer: 69
+Input: R16 | Pointer: 85
+Input: L74 | Pointer: 11
+Input: L111 | Pointer: 0
+> password current: 217
+Input: L662 | Pointer: 38
+Input: R353 | Pointer: 91
+Input: R52 | Pointer: 43
+Input: R92 | Pointer: 35
+Input: L172 | Pointer: 63
+Input: L74 | Pointer: 89
+Input: R11 | Pointer: 0
+> password current: 218
+Input: L8 | Pointer: 92
+Input: L92 | Pointer: 0
+> password current: 219
+Input: L4 | Pointer: 96
+Input: R46 | Pointer: 42
+Input: R41 | Pointer: 83
+Input: L283 | Pointer: 0
+> password current: 220
+Input: R63 | Pointer: 63
+Input: R26 | Pointer: 89
+Input: L31 | Pointer: 58
+Input: L958 | Pointer: 0
+> password current: 221
+Input: R28 | Pointer: 28
+Input: R72 | Pointer: 0
+> password current: 222
+Input: L55 | Pointer: 45
+Input: R43 | Pointer: 88
+Input: R9 | Pointer: 97
+Input: L97 | Pointer: 0
+> password current: 223
+Input: L8 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 224
+Input: R877 | Pointer: 77
+Input: L44 | Pointer: 33
+Input: R23 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 225
+Input: R75 | Pointer: 75
+Input: L75 | Pointer: 0
+> password current: 226
+Input: L777 | Pointer: 23
+Input: R1 | Pointer: 24
+Input: L24 | Pointer: 0
+> password current: 227
+Input: L83 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 228
+Input: R43 | Pointer: 43
+Input: R24 | Pointer: 67
+Input: R1 | Pointer: 68
+Input: L42 | Pointer: 26
+Input: L84 | Pointer: 42
+Input: R758 | Pointer: 0
+> password current: 229
+Input: L18 | Pointer: 82
+Input: R63 | Pointer: 45
+Input: R32 | Pointer: 77
+Input: R71 | Pointer: 48
+Input: L741 | Pointer: 7
+Input: R85 | Pointer: 92
+Input: R56 | Pointer: 48
+Input: R55 | Pointer: 3
+Input: L11 | Pointer: 92
+Input: L50 | Pointer: 42
+Input: L85 | Pointer: 57
+Input: R56 | Pointer: 13
+Input: R8 | Pointer: 21
+Input: R46 | Pointer: 67
+Input: L353 | Pointer: 14
+Input: L99 | Pointer: 15
+Input: L615 | Pointer: 0
+> password current: 230
+Input: L612 | Pointer: 88
+Input: L28 | Pointer: 60
+Input: L531 | Pointer: 29
+Input: L29 | Pointer: 0
+> password current: 231
+Input: R88 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 232
+Input: R34 | Pointer: 34
+Input: L69 | Pointer: 65
+Input: R423 | Pointer: 88
+Input: L84 | Pointer: 4
+Input: L34 | Pointer: 70
+Input: R30 | Pointer: 0
+> password current: 233
+Input: L42 | Pointer: 58
+Input: R51 | Pointer: 9
+Input: L81 | Pointer: 28
+Input: R61 | Pointer: 89
+Input: R233 | Pointer: 22
+Input: R52 | Pointer: 74
+Input: L374 | Pointer: 0
+> password current: 234
+Input: R85 | Pointer: 85
+Input: L20 | Pointer: 65
+Input: L32 | Pointer: 33
+Input: L4 | Pointer: 29
+Input: R83 | Pointer: 12
+Input: L471 | Pointer: 41
+Input: R46 | Pointer: 87
+Input: L6 | Pointer: 81
+Input: R87 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 235
+Input: R55 | Pointer: 55
+Input: L618 | Pointer: 37
+Input: L39 | Pointer: 98
+Input: L98 | Pointer: 0
+> password current: 236
+Input: L29 | Pointer: 71
+Input: L41 | Pointer: 30
+Input: R25 | Pointer: 55
+Input: L19 | Pointer: 36
+Input: L936 | Pointer: 0
+> password current: 237
+Input: L39 | Pointer: 61
+Input: L61 | Pointer: 0
+> password current: 238
+Input: L61 | Pointer: 39
+Input: L36 | Pointer: 3
+Input: L303 | Pointer: 0
+> password current: 239
+Input: R44 | Pointer: 44
+Input: L2 | Pointer: 42
+Input: L97 | Pointer: 45
+Input: R41 | Pointer: 86
+Input: R35 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 240
+Input: L72 | Pointer: 28
+Input: R72 | Pointer: 0
+> password current: 241
+Input: L85 | Pointer: 15
+Input: L266 | Pointer: 49
+Input: R33 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 242
+Input: L260 | Pointer: 40
+Input: R91 | Pointer: 31
+Input: L9 | Pointer: 22
+Input: R58 | Pointer: 80
+Input: R825 | Pointer: 5
+Input: L705 | Pointer: 0
+> password current: 243
+Input: R92 | Pointer: 92
+Input: R29 | Pointer: 21
+Input: R20 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 244
+Input: R69 | Pointer: 69
+Input: L61 | Pointer: 8
+Input: R28 | Pointer: 36
+Input: R86 | Pointer: 22
+Input: R10 | Pointer: 32
+Input: R507 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 245
+Input: L4 | Pointer: 96
+Input: R504 | Pointer: 0
+> password current: 246
+Input: L227 | Pointer: 73
+Input: L22 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 247
+Input: R54 | Pointer: 54
+Input: L20 | Pointer: 34
+Input: L2 | Pointer: 32
+Input: R467 | Pointer: 99
+Input: L83 | Pointer: 16
+Input: L16 | Pointer: 0
+> password current: 248
+Input: L7 | Pointer: 93
+Input: L93 | Pointer: 0
+> password current: 249
+Input: R99 | Pointer: 99
+Input: R61 | Pointer: 60
+Input: R23 | Pointer: 83
+Input: L85 | Pointer: 98
+Input: R19 | Pointer: 17
+Input: L95 | Pointer: 22
+Input: L94 | Pointer: 28
+Input: L28 | Pointer: 0
+> password current: 250
+Input: R273 | Pointer: 73
+Input: R53 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 251
+Input: R69 | Pointer: 69
+Input: L605 | Pointer: 64
+Input: L180 | Pointer: 84
+Input: R17 | Pointer: 1
+Input: R4 | Pointer: 5
+Input: R13 | Pointer: 18
+Input: L36 | Pointer: 82
+Input: L82 | Pointer: 0
+> password current: 252
+Input: L66 | Pointer: 34
+Input: L1 | Pointer: 33
+Input: R67 | Pointer: 0
+> password current: 253
+Input: R97 | Pointer: 97
+Input: R34 | Pointer: 31
+Input: L7 | Pointer: 24
+Input: R276 | Pointer: 0
+> password current: 254
+Input: L328 | Pointer: 72
+Input: L72 | Pointer: 0
+> password current: 255
+Input: L44 | Pointer: 56
+Input: R87 | Pointer: 43
+Input: R69 | Pointer: 12
+Input: L12 | Pointer: 0
+> password current: 256
+Input: L46 | Pointer: 54
+Input: L60 | Pointer: 94
+Input: R7 | Pointer: 1
+Input: L72 | Pointer: 29
+Input: R69 | Pointer: 98
+Input: L60 | Pointer: 38
+Input: R83 | Pointer: 21
+Input: R360 | Pointer: 81
+Input: L54 | Pointer: 27
+Input: R76 | Pointer: 3
+Input: L3 | Pointer: 0
+> password current: 257
+Input: R54 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 258
+Input: R6 | Pointer: 6
+Input: L74 | Pointer: 32
+Input: L32 | Pointer: 0
+> password current: 259
+Input: R211 | Pointer: 11
+Input: R89 | Pointer: 0
+> password current: 260
+Input: R63 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 261
+Input: L59 | Pointer: 41
+Input: L39 | Pointer: 2
+Input: L5 | Pointer: 97
+Input: R3 | Pointer: 0
+> password current: 262
+Input: R19 | Pointer: 19
+Input: L64 | Pointer: 55
+Input: L90 | Pointer: 65
+Input: L3 | Pointer: 62
+Input: L25 | Pointer: 37
+Input: L37 | Pointer: 0
+> password current: 263
+Input: R52 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 264
+Input: R299 | Pointer: 99
+Input: L85 | Pointer: 14
+Input: L14 | Pointer: 0
+> password current: 265
+Input: R17 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 266
+Input: L4 | Pointer: 96
+Input: L57 | Pointer: 39
+Input: L90 | Pointer: 49
+Input: L61 | Pointer: 88
+Input: L86 | Pointer: 2
+Input: R98 | Pointer: 0
+> password current: 267
+Input: L79 | Pointer: 21
+Input: R10 | Pointer: 31
+Input: L331 | Pointer: 0
+> password current: 268
+Input: L322 | Pointer: 78
+Input: R733 | Pointer: 11
+Input: L611 | Pointer: 0
+> password current: 269
+Input: R28 | Pointer: 28
+Input: R298 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 270
+Input: L92 | Pointer: 8
+Input: L96 | Pointer: 12
+Input: L48 | Pointer: 64
+Input: R40 | Pointer: 4
+Input: R76 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 271
+Input: R39 | Pointer: 39
+Input: L24 | Pointer: 15
+Input: R96 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 272
+Input: R7 | Pointer: 7
+Input: R93 | Pointer: 0
+> password current: 273
+Input: R860 | Pointer: 60
+Input: L78 | Pointer: 82
+Input: L444 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 274
+Input: L661 | Pointer: 39
+Input: R85 | Pointer: 24
+Input: L63 | Pointer: 61
+Input: R62 | Pointer: 23
+Input: R77 | Pointer: 0
+> password current: 275
+Input: L89 | Pointer: 11
+Input: R19 | Pointer: 30
+Input: L30 | Pointer: 0
+> password current: 276
+Input: L678 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 277
+Input: R69 | Pointer: 69
+Input: L64 | Pointer: 5
+Input: L5 | Pointer: 0
+> password current: 278
+Input: L46 | Pointer: 54
+Input: L78 | Pointer: 76
+Input: L876 | Pointer: 0
+> password current: 279
+Input: R18 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 280
+Input: L414 | Pointer: 86
+Input: R88 | Pointer: 74
+Input: R626 | Pointer: 0
+> password current: 281
+Input: L70 | Pointer: 30
+Input: R713 | Pointer: 43
+Input: L53 | Pointer: 90
+Input: R210 | Pointer: 0
+> password current: 282
+Input: R94 | Pointer: 94
+Input: L394 | Pointer: 0
+> password current: 283
+Input: L5 | Pointer: 95
+Input: R953 | Pointer: 48
+Input: L48 | Pointer: 0
+> password current: 284
+Input: L410 | Pointer: 90
+Input: L269 | Pointer: 21
+Input: R872 | Pointer: 93
+Input: R70 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 285
+Input: L49 | Pointer: 51
+Input: R766 | Pointer: 17
+Input: L11 | Pointer: 6
+Input: R35 | Pointer: 41
+Input: L17 | Pointer: 24
+Input: R650 | Pointer: 74
+Input: L474 | Pointer: 0
+> password current: 286
+Input: R75 | Pointer: 75
+Input: R428 | Pointer: 3
+Input: R883 | Pointer: 86
+Input: L86 | Pointer: 0
+> password current: 287
+Input: L241 | Pointer: 59
+Input: R24 | Pointer: 83
+Input: R75 | Pointer: 58
+Input: L68 | Pointer: 90
+Input: L97 | Pointer: 93
+Input: R17 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 288
+Input: L84 | Pointer: 16
+Input: L16 | Pointer: 0
+> password current: 289
+Input: R17 | Pointer: 17
+Input: L80 | Pointer: 37
+Input: L37 | Pointer: 0
+> password current: 290
+Input: R282 | Pointer: 82
+Input: R107 | Pointer: 89
+Input: R44 | Pointer: 33
+Input: L26 | Pointer: 7
+Input: R77 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 291
+Input: R133 | Pointer: 33
+Input: R67 | Pointer: 0
+> password current: 292
+Input: R32 | Pointer: 32
+Input: R331 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 293
+Input: R86 | Pointer: 86
+Input: R23 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 294
+Input: R95 | Pointer: 95
+Input: R39 | Pointer: 34
+Input: R92 | Pointer: 26
+Input: R202 | Pointer: 28
+Input: L35 | Pointer: 93
+Input: L62 | Pointer: 31
+Input: R72 | Pointer: 3
+Input: L10 | Pointer: 93
+Input: R124 | Pointer: 17
+Input: L33 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 295
+Input: R402 | Pointer: 2
+Input: L98 | Pointer: 4
+Input: R96 | Pointer: 0
+> password current: 296
+Input: L246 | Pointer: 54
+Input: L49 | Pointer: 5
+Input: R95 | Pointer: 0
+> password current: 297
+Input: R12 | Pointer: 12
+Input: L312 | Pointer: 0
+> password current: 298
+Input: R474 | Pointer: 74
+Input: R25 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 299
+Input: L16 | Pointer: 84
+Input: L96 | Pointer: 88
+Input: R56 | Pointer: 44
+Input: R98 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 300
+Input: L73 | Pointer: 27
+Input: R354 | Pointer: 81
+Input: L23 | Pointer: 58
+Input: R32 | Pointer: 90
+Input: L81 | Pointer: 9
+Input: R6 | Pointer: 15
+Input: R32 | Pointer: 47
+Input: R10 | Pointer: 57
+Input: L193 | Pointer: 64
+Input: R36 | Pointer: 0
+> password current: 301
+Input: L40 | Pointer: 60
+Input: L60 | Pointer: 0
+> password current: 302
+Input: L61 | Pointer: 39
+Input: R25 | Pointer: 64
+Input: L8 | Pointer: 56
+Input: R37 | Pointer: 93
+Input: R76 | Pointer: 69
+Input: L69 | Pointer: 0
+> password current: 303
+Input: L84 | Pointer: 16
+Input: L71 | Pointer: 45
+Input: L25 | Pointer: 20
+Input: R80 | Pointer: 0
+> password current: 304
+Input: L32 | Pointer: 68
+Input: R404 | Pointer: 72
+Input: L172 | Pointer: 0
+> password current: 305
+Input: R810 | Pointer: 10
+Input: L14 | Pointer: 96
+Input: L45 | Pointer: 51
+Input: L51 | Pointer: 0
+> password current: 306
+Input: R85 | Pointer: 85
+Input: R62 | Pointer: 47
+Input: R11 | Pointer: 58
+Input: L98 | Pointer: 60
+Input: L38 | Pointer: 22
+Input: R3 | Pointer: 25
+Input: R14 | Pointer: 39
+Input: L39 | Pointer: 0
+> password current: 307
+Input: L20 | Pointer: 80
+Input: L30 | Pointer: 50
+Input: R62 | Pointer: 12
+Input: R88 | Pointer: 0
+> password current: 308
+Input: L56 | Pointer: 44
+Input: L67 | Pointer: 77
+Input: R223 | Pointer: 0
+> password current: 309
+Input: R5 | Pointer: 5
+Input: L5 | Pointer: 0
+> password current: 310
+Input: R3 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 311
+Input: L92 | Pointer: 8
+Input: R543 | Pointer: 51
+Input: L551 | Pointer: 0
+> password current: 312
+Input: R37 | Pointer: 37
+Input: R33 | Pointer: 70
+Input: R30 | Pointer: 0
+> password current: 313
+Input: R2 | Pointer: 2
+Input: L93 | Pointer: 9
+Input: L109 | Pointer: 0
+> password current: 314
+Input: L89 | Pointer: 11
+Input: L31 | Pointer: 80
+Input: R71 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 315
+Input: L176 | Pointer: 24
+Input: L61 | Pointer: 63
+Input: L684 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 316
+Input: L89 | Pointer: 11
+Input: L22 | Pointer: 89
+Input: L89 | Pointer: 0
+> password current: 317
+Input: L202 | Pointer: 98
+Input: R2 | Pointer: 0
+> password current: 318
+Input: R35 | Pointer: 35
+Input: R537 | Pointer: 72
+Input: R99 | Pointer: 71
+Input: R29 | Pointer: 0
+> password current: 319
+Input: L642 | Pointer: 58
+Input: L95 | Pointer: 63
+Input: R773 | Pointer: 36
+Input: R764 | Pointer: 0
+> password current: 320
+Input: R174 | Pointer: 74
+Input: L74 | Pointer: 0
+> password current: 321
+Input: L104 | Pointer: 96
+Input: R853 | Pointer: 49
+Input: R163 | Pointer: 12
+Input: R66 | Pointer: 78
+Input: R78 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 322
+Input: R48 | Pointer: 48
+Input: L25 | Pointer: 23
+Input: R77 | Pointer: 0
+> password current: 323
+Input: L56 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 324
+Input: L18 | Pointer: 82
+Input: R618 | Pointer: 0
+> password current: 325
+Input: L610 | Pointer: 90
+Input: L90 | Pointer: 0
+> password current: 326
+Input: L934 | Pointer: 66
+Input: R27 | Pointer: 93
+Input: L13 | Pointer: 80
+Input: R20 | Pointer: 0
+> password current: 327
+Input: R31 | Pointer: 31
+Input: L76 | Pointer: 55
+Input: R45 | Pointer: 0
+> password current: 328
+Input: L91 | Pointer: 9
+Input: L72 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 329
+Input: L254 | Pointer: 46
+Input: L41 | Pointer: 5
+Input: L38 | Pointer: 67
+Input: L34 | Pointer: 33
+Input: L90 | Pointer: 43
+Input: R41 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 330
+Input: R6 | Pointer: 6
+Input: L51 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 331
+Input: R24 | Pointer: 24
+Input: R60 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 332
+Input: L17 | Pointer: 83
+Input: R72 | Pointer: 55
+Input: L93 | Pointer: 62
+Input: R38 | Pointer: 0
+> password current: 333
+Input: L34 | Pointer: 66
+Input: R54 | Pointer: 20
+Input: L20 | Pointer: 0
+> password current: 334
+Input: R65 | Pointer: 65
+Input: R52 | Pointer: 17
+Input: R522 | Pointer: 39
+Input: L41 | Pointer: 98
+Input: R2 | Pointer: 0
+> password current: 335
+Input: R173 | Pointer: 73
+Input: R10 | Pointer: 83
+Input: L87 | Pointer: 96
+Input: L77 | Pointer: 19
+Input: L47 | Pointer: 72
+Input: L951 | Pointer: 21
+Input: R79 | Pointer: 0
+> password current: 336
+Input: L52 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 337
+Input: R99 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 338
+Input: R49 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 339
+Input: R57 | Pointer: 57
+Input: L10 | Pointer: 47
+Input: R71 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 340
+Input: L89 | Pointer: 11
+Input: L24 | Pointer: 87
+Input: L468 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 341
+Input: L266 | Pointer: 34
+Input: R13 | Pointer: 47
+Input: L26 | Pointer: 21
+Input: R22 | Pointer: 43
+Input: R88 | Pointer: 31
+Input: R363 | Pointer: 94
+Input: L665 | Pointer: 29
+Input: L40 | Pointer: 89
+Input: R18 | Pointer: 7
+Input: L327 | Pointer: 80
+Input: R26 | Pointer: 6
+Input: L83 | Pointer: 23
+Input: L623 | Pointer: 0
+> password current: 342
+Input: R70 | Pointer: 70
+Input: R430 | Pointer: 0
+> password current: 343
+Input: L87 | Pointer: 13
+Input: L36 | Pointer: 77
+Input: L85 | Pointer: 92
+Input: L999 | Pointer: 93
+Input: L9 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 344
+Input: L540 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 345
+Input: L42 | Pointer: 58
+Input: R21 | Pointer: 79
+Input: L288 | Pointer: 91
+Input: L710 | Pointer: 81
+Input: L81 | Pointer: 0
+> password current: 346
+Input: R74 | Pointer: 74
+Input: L31 | Pointer: 43
+Input: R4 | Pointer: 47
+Input: R94 | Pointer: 41
+Input: L12 | Pointer: 29
+Input: L890 | Pointer: 39
+Input: R861 | Pointer: 0
+> password current: 347
+Input: R84 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 348
+Input: R77 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 349
+Input: R456 | Pointer: 56
+Input: L46 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 350
+Input: L8 | Pointer: 92
+Input: L92 | Pointer: 0
+> password current: 351
+Input: R71 | Pointer: 71
+Input: L32 | Pointer: 39
+Input: L55 | Pointer: 84
+Input: L57 | Pointer: 27
+Input: R95 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 352
+Input: R52 | Pointer: 52
+Input: L57 | Pointer: 95
+Input: L152 | Pointer: 43
+Input: R66 | Pointer: 9
+Input: L87 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 353
+Input: R92 | Pointer: 92
+Input: L91 | Pointer: 1
+Input: L99 | Pointer: 2
+Input: R96 | Pointer: 98
+Input: R234 | Pointer: 32
+Input: R68 | Pointer: 0
+> password current: 354
+Input: R82 | Pointer: 82
+Input: L72 | Pointer: 10
+Input: R42 | Pointer: 52
+Input: R63 | Pointer: 15
+Input: R444 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 355
+Input: R86 | Pointer: 86
+Input: L223 | Pointer: 63
+Input: R199 | Pointer: 62
+Input: L956 | Pointer: 6
+Input: L88 | Pointer: 18
+Input: L37 | Pointer: 81
+Input: R53 | Pointer: 34
+Input: R752 | Pointer: 86
+Input: R59 | Pointer: 45
+Input: R56 | Pointer: 1
+Input: R99 | Pointer: 0
+> password current: 356
+Input: R858 | Pointer: 58
+Input: L58 | Pointer: 0
+> password current: 357
+Input: L905 | Pointer: 95
+Input: R73 | Pointer: 68
+Input: L778 | Pointer: 90
+Input: L43 | Pointer: 47
+Input: L70 | Pointer: 77
+Input: R66 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 358
+Input: R71 | Pointer: 71
+Input: R37 | Pointer: 8
+Input: R92 | Pointer: 0
+> password current: 359
+Input: R20 | Pointer: 20
+Input: R80 | Pointer: 0
+> password current: 360
+Input: R953 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 361
+Input: L55 | Pointer: 45
+Input: L70 | Pointer: 75
+Input: R2 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 362
+Input: R333 | Pointer: 33
+Input: R491 | Pointer: 24
+Input: R76 | Pointer: 0
+> password current: 363
+Input: L88 | Pointer: 12
+Input: L35 | Pointer: 77
+Input: R86 | Pointer: 63
+Input: L99 | Pointer: 64
+Input: L64 | Pointer: 0
+> password current: 364
+Input: L83 | Pointer: 17
+Input: R56 | Pointer: 73
+Input: L47 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 365
+Input: L14 | Pointer: 86
+Input: R414 | Pointer: 0
+> password current: 366
+Input: L33 | Pointer: 67
+Input: L21 | Pointer: 46
+Input: R10 | Pointer: 56
+Input: L256 | Pointer: 0
+> password current: 367
+Input: R58 | Pointer: 58
+Input: R37 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 368
+Input: L929 | Pointer: 71
+Input: R461 | Pointer: 32
+Input: L277 | Pointer: 55
+Input: R77 | Pointer: 32
+Input: R68 | Pointer: 0
+> password current: 369
+Input: R6 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 370
+Input: R68 | Pointer: 68
+Input: L67 | Pointer: 1
+Input: R651 | Pointer: 52
+Input: L21 | Pointer: 31
+Input: L5 | Pointer: 26
+Input: L379 | Pointer: 47
+Input: R53 | Pointer: 0
+> password current: 371
+Input: R89 | Pointer: 89
+Input: R42 | Pointer: 31
+Input: L44 | Pointer: 87
+Input: R95 | Pointer: 82
+Input: R1 | Pointer: 83
+Input: R61 | Pointer: 44
+Input: L44 | Pointer: 0
+> password current: 372
+Input: R96 | Pointer: 96
+Input: R41 | Pointer: 37
+Input: L37 | Pointer: 0
+> password current: 373
+Input: L244 | Pointer: 56
+Input: L356 | Pointer: 0
+> password current: 374
+Input: L57 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 375
+Input: R63 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 376
+Input: L66 | Pointer: 34
+Input: L34 | Pointer: 0
+> password current: 377
+Input: R56 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 378
+Input: R47 | Pointer: 47
+Input: R11 | Pointer: 58
+Input: L88 | Pointer: 70
+Input: R35 | Pointer: 5
+Input: R6 | Pointer: 11
+Input: L96 | Pointer: 15
+Input: L52 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 379
+Input: L43 | Pointer: 57
+Input: R4 | Pointer: 61
+Input: R96 | Pointer: 57
+Input: L290 | Pointer: 67
+Input: R1 | Pointer: 68
+Input: R91 | Pointer: 59
+Input: L40 | Pointer: 19
+Input: R281 | Pointer: 0
+> password current: 380
+Input: R30 | Pointer: 30
+Input: R88 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 381
+Input: L86 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 382
+Input: R73 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 383
+Input: R72 | Pointer: 72
+Input: L62 | Pointer: 10
+Input: R3 | Pointer: 13
+Input: L613 | Pointer: 0
+> password current: 384
+Input: R44 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 385
+Input: R87 | Pointer: 87
+Input: L76 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 386
+Input: R670 | Pointer: 70
+Input: L270 | Pointer: 0
+> password current: 387
+Input: L7 | Pointer: 93
+Input: L995 | Pointer: 98
+Input: L935 | Pointer: 63
+Input: L29 | Pointer: 34
+Input: R61 | Pointer: 95
+Input: L95 | Pointer: 0
+> password current: 388
+Input: L316 | Pointer: 84
+Input: L10 | Pointer: 74
+Input: L61 | Pointer: 13
+Input: L70 | Pointer: 43
+Input: R217 | Pointer: 60
+Input: L4 | Pointer: 56
+Input: R672 | Pointer: 28
+Input: L28 | Pointer: 0
+> password current: 389
+Input: R45 | Pointer: 45
+Input: R55 | Pointer: 0
+> password current: 390
+Input: R79 | Pointer: 79
+Input: L34 | Pointer: 45
+Input: R55 | Pointer: 0
+> password current: 391
+Input: R1 | Pointer: 1
+Input: L6 | Pointer: 95
+Input: L27 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 392
+Input: L34 | Pointer: 66
+Input: R34 | Pointer: 0
+> password current: 393
+Input: R69 | Pointer: 69
+Input: L84 | Pointer: 85
+Input: L73 | Pointer: 12
+Input: L12 | Pointer: 0
+> password current: 394
+Input: R36 | Pointer: 36
+Input: R755 | Pointer: 91
+Input: L548 | Pointer: 43
+Input: L106 | Pointer: 37
+Input: R969 | Pointer: 6
+Input: L534 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 395
+Input: L49 | Pointer: 51
+Input: R29 | Pointer: 80
+Input: L59 | Pointer: 21
+Input: L521 | Pointer: 0
+> password current: 396
+Input: L88 | Pointer: 12
+Input: L97 | Pointer: 15
+Input: R679 | Pointer: 94
+Input: L67 | Pointer: 27
+Input: R14 | Pointer: 41
+Input: L95 | Pointer: 46
+Input: R54 | Pointer: 0
+> password current: 397
+Input: L64 | Pointer: 36
+Input: L85 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 398
+Input: R13 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 399
+Input: R30 | Pointer: 30
+Input: R87 | Pointer: 17
+Input: L55 | Pointer: 62
+Input: L62 | Pointer: 0
+> password current: 400
+Input: L986 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 401
+Input: R59 | Pointer: 59
+Input: L82 | Pointer: 77
+Input: L19 | Pointer: 58
+Input: L19 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 402
+Input: R22 | Pointer: 22
+Input: R3 | Pointer: 25
+Input: L740 | Pointer: 85
+Input: R30 | Pointer: 15
+Input: R885 | Pointer: 0
+> password current: 403
+Input: R6 | Pointer: 6
+Input: R79 | Pointer: 85
+Input: L51 | Pointer: 34
+Input: L34 | Pointer: 0
+> password current: 404
+Input: L59 | Pointer: 41
+Input: L69 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 405
+Input: L726 | Pointer: 74
+Input: L99 | Pointer: 75
+Input: R49 | Pointer: 24
+Input: R26 | Pointer: 50
+Input: L47 | Pointer: 3
+Input: R154 | Pointer: 57
+Input: L74 | Pointer: 83
+Input: R10 | Pointer: 93
+Input: R26 | Pointer: 19
+Input: L19 | Pointer: 0
+> password current: 406
+Input: R40 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 407
+Input: R105 | Pointer: 5
+Input: R883 | Pointer: 88
+Input: R95 | Pointer: 83
+Input: R94 | Pointer: 77
+Input: R23 | Pointer: 0
+> password current: 408
+Input: L22 | Pointer: 78
+Input: L56 | Pointer: 22
+Input: R61 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 409
+Input: R615 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 410
+Input: L92 | Pointer: 8
+Input: L8 | Pointer: 0
+> password current: 411
+Input: L622 | Pointer: 78
+Input: R20 | Pointer: 98
+Input: R60 | Pointer: 58
+Input: R79 | Pointer: 37
+Input: L74 | Pointer: 63
+Input: R668 | Pointer: 31
+Input: R69 | Pointer: 0
+> password current: 412
+Input: R57 | Pointer: 57
+Input: R247 | Pointer: 4
+Input: R96 | Pointer: 0
+> password current: 413
+Input: R9 | Pointer: 9
+Input: R90 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 414
+Input: R73 | Pointer: 73
+Input: L77 | Pointer: 96
+Input: R89 | Pointer: 85
+Input: L538 | Pointer: 47
+Input: R24 | Pointer: 71
+Input: L71 | Pointer: 0
+> password current: 415
+Input: L97 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 416
+Input: R167 | Pointer: 67
+Input: L967 | Pointer: 0
+> password current: 417
+Input: L94 | Pointer: 6
+Input: R67 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 418
+Input: L49 | Pointer: 51
+Input: R157 | Pointer: 8
+Input: R37 | Pointer: 45
+Input: R35 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 419
+Input: L18 | Pointer: 82
+Input: L609 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 420
+Input: R690 | Pointer: 90
+Input: R38 | Pointer: 28
+Input: R39 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 421
+Input: L80 | Pointer: 20
+Input: L31 | Pointer: 89
+Input: R11 | Pointer: 0
+> password current: 422
+Input: R57 | Pointer: 57
+Input: R443 | Pointer: 0
+> password current: 423
+Input: L471 | Pointer: 29
+Input: L29 | Pointer: 0
+> password current: 424
+Input: L65 | Pointer: 35
+Input: R116 | Pointer: 51
+Input: L95 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 425
+Input: L15 | Pointer: 85
+Input: L85 | Pointer: 0
+> password current: 426
+Input: R314 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 427
+Input: R60 | Pointer: 60
+Input: R640 | Pointer: 0
+> password current: 428
+Input: L59 | Pointer: 41
+Input: L937 | Pointer: 4
+Input: R30 | Pointer: 34
+Input: R79 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 429
+Input: R83 | Pointer: 83
+Input: L51 | Pointer: 32
+Input: L1 | Pointer: 31
+Input: R69 | Pointer: 0
+> password current: 430
+Input: R13 | Pointer: 13
+Input: L29 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 431
+Input: L923 | Pointer: 77
+Input: L63 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 432
+Input: L614 | Pointer: 86
+Input: R471 | Pointer: 57
+Input: L8 | Pointer: 49
+Input: R51 | Pointer: 0
+> password current: 433
+Input: R76 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 434
+Input: R16 | Pointer: 16
+Input: R38 | Pointer: 54
+Input: L54 | Pointer: 0
+> password current: 435
+Input: R34 | Pointer: 34
+Input: R53 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 436
+Input: R6 | Pointer: 6
+Input: L41 | Pointer: 65
+Input: L16 | Pointer: 49
+Input: L50 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 437
+Input: L87 | Pointer: 13
+Input: L49 | Pointer: 64
+Input: R51 | Pointer: 15
+Input: L1 | Pointer: 14
+Input: R886 | Pointer: 0
+> password current: 438
+Input: R552 | Pointer: 52
+Input: L52 | Pointer: 0
+> password current: 439
+Input: R50 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 440
+Input: R7 | Pointer: 7
+Input: R7 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 441
+Input: L58 | Pointer: 42
+Input: R58 | Pointer: 0
+> password current: 442
+Input: R77 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 443
+Input: R20 | Pointer: 20
+Input: L478 | Pointer: 42
+Input: L55 | Pointer: 87
+Input: L126 | Pointer: 61
+Input: L40 | Pointer: 21
+Input: L45 | Pointer: 76
+Input: L90 | Pointer: 86
+Input: R14 | Pointer: 0
+> password current: 444
+Input: L80 | Pointer: 20
+Input: L79 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 445
+Input: R902 | Pointer: 2
+Input: L97 | Pointer: 5
+Input: L4 | Pointer: 1
+Input: L93 | Pointer: 8
+Input: R92 | Pointer: 0
+> password current: 446
+Input: R2 | Pointer: 2
+Input: R22 | Pointer: 24
+Input: R76 | Pointer: 0
+> password current: 447
+Input: R77 | Pointer: 77
+Input: L75 | Pointer: 2
+Input: L27 | Pointer: 75
+Input: R21 | Pointer: 96
+Input: L96 | Pointer: 0
+> password current: 448
+Input: R126 | Pointer: 26
+Input: R97 | Pointer: 23
+Input: L47 | Pointer: 76
+Input: R20 | Pointer: 96
+Input: R4 | Pointer: 0
+> password current: 449
+Input: L484 | Pointer: 16
+Input: R484 | Pointer: 0
+> password current: 450
+Input: L87 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 451
+Input: L37 | Pointer: 63
+Input: R1 | Pointer: 64
+Input: L23 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 452
+Input: L49 | Pointer: 51
+Input: L37 | Pointer: 14
+Input: R57 | Pointer: 71
+Input: R54 | Pointer: 25
+Input: L25 | Pointer: 0
+> password current: 453
+Input: R62 | Pointer: 62
+Input: L39 | Pointer: 23
+Input: R77 | Pointer: 0
+> password current: 454
+Input: R58 | Pointer: 58
+Input: R442 | Pointer: 0
+> password current: 455
+Input: L4 | Pointer: 96
+Input: L896 | Pointer: 0
+> password current: 456
+Input: L475 | Pointer: 25
+Input: L25 | Pointer: 0
+> password current: 457
+Input: R38 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 458
+Input: L49 | Pointer: 51
+Input: R39 | Pointer: 90
+Input: R429 | Pointer: 19
+Input: R36 | Pointer: 55
+Input: R62 | Pointer: 17
+Input: L66 | Pointer: 51
+Input: L750 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 459
+Input: R60 | Pointer: 60
+Input: R98 | Pointer: 58
+Input: L72 | Pointer: 86
+Input: R14 | Pointer: 0
+> password current: 460
+Input: L43 | Pointer: 57
+Input: L57 | Pointer: 0
+> password current: 461
+Input: R24 | Pointer: 24
+Input: R76 | Pointer: 0
+> password current: 462
+Input: L757 | Pointer: 43
+Input: L42 | Pointer: 1
+Input: L39 | Pointer: 62
+Input: R26 | Pointer: 88
+Input: R64 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 463
+Input: L85 | Pointer: 15
+Input: R57 | Pointer: 72
+Input: R85 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 464
+Input: L55 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 465
+Input: R9 | Pointer: 9
+Input: R591 | Pointer: 0
+> password current: 466
+Input: L97 | Pointer: 3
+Input: R16 | Pointer: 19
+Input: L236 | Pointer: 83
+Input: L383 | Pointer: 0
+> password current: 467
+Input: R46 | Pointer: 46
+Input: L27 | Pointer: 19
+Input: L606 | Pointer: 13
+Input: L131 | Pointer: 82
+Input: L33 | Pointer: 49
+Input: L98 | Pointer: 51
+Input: R297 | Pointer: 48
+Input: R74 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 468
+Input: R49 | Pointer: 49
+Input: R632 | Pointer: 81
+Input: L581 | Pointer: 0
+> password current: 469
+Input: R299 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 470
+Input: L12 | Pointer: 88
+Input: L94 | Pointer: 94
+Input: L93 | Pointer: 1
+Input: L38 | Pointer: 63
+Input: R10 | Pointer: 73
+Input: L74 | Pointer: 99
+Input: L739 | Pointer: 60
+Input: R340 | Pointer: 0
+> password current: 471
+Input: R26 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 472
+Input: R27 | Pointer: 27
+Input: L27 | Pointer: 0
+> password current: 473
+Input: L13 | Pointer: 87
+Input: L88 | Pointer: 99
+Input: R693 | Pointer: 92
+Input: L46 | Pointer: 46
+Input: L37 | Pointer: 9
+Input: L211 | Pointer: 98
+Input: R90 | Pointer: 88
+Input: L17 | Pointer: 71
+Input: L60 | Pointer: 11
+Input: L511 | Pointer: 0
+> password current: 474
+Input: R802 | Pointer: 2
+Input: R40 | Pointer: 42
+Input: R78 | Pointer: 20
+Input: R62 | Pointer: 82
+Input: R22 | Pointer: 4
+Input: L70 | Pointer: 34
+Input: L82 | Pointer: 52
+Input: L52 | Pointer: 0
+> password current: 475
+Input: L26 | Pointer: 74
+Input: L74 | Pointer: 0
+> password current: 476
+Input: L90 | Pointer: 10
+Input: L804 | Pointer: 6
+Input: R670 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 477
+Input: L20 | Pointer: 80
+Input: L4 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 478
+Input: R26 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 479
+Input: L39 | Pointer: 61
+Input: R303 | Pointer: 64
+Input: L89 | Pointer: 75
+Input: R42 | Pointer: 17
+Input: R582 | Pointer: 99
+Input: R27 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 480
+Input: R960 | Pointer: 60
+Input: L44 | Pointer: 16
+Input: R84 | Pointer: 0
+> password current: 481
+Input: L34 | Pointer: 66
+Input: R79 | Pointer: 45
+Input: R55 | Pointer: 0
+> password current: 482
+Input: R936 | Pointer: 36
+Input: L243 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 483
+Input: L290 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 484
+Input: L158 | Pointer: 42
+Input: L87 | Pointer: 55
+Input: L49 | Pointer: 6
+Input: R321 | Pointer: 27
+Input: R61 | Pointer: 88
+Input: R573 | Pointer: 61
+Input: L24 | Pointer: 37
+Input: R154 | Pointer: 91
+Input: L83 | Pointer: 8
+Input: R733 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 485
+Input: R221 | Pointer: 21
+Input: R55 | Pointer: 76
+Input: R96 | Pointer: 72
+Input: R69 | Pointer: 41
+Input: L7 | Pointer: 34
+Input: R966 | Pointer: 0
+> password current: 486
+Input: L49 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 487
+Input: L31 | Pointer: 69
+Input: L44 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 488
+Input: L22 | Pointer: 78
+Input: L78 | Pointer: 0
+> password current: 489
+Input: L219 | Pointer: 81
+Input: R82 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 490
+Input: L181 | Pointer: 19
+Input: L19 | Pointer: 0
+> password current: 491
+Input: R30 | Pointer: 30
+Input: L16 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 492
+Input: L95 | Pointer: 5
+Input: L89 | Pointer: 16
+Input: R34 | Pointer: 50
+Input: L3 | Pointer: 47
+Input: L647 | Pointer: 0
+> password current: 493
+Input: R65 | Pointer: 65
+Input: R76 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 494
+Input: L72 | Pointer: 28
+Input: L3 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 495
+Input: L48 | Pointer: 52
+Input: R62 | Pointer: 14
+Input: L14 | Pointer: 0
+> password current: 496
+Input: L627 | Pointer: 73
+Input: L895 | Pointer: 78
+Input: R18 | Pointer: 96
+Input: L96 | Pointer: 0
+> password current: 497
+Input: R18 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 498
+Input: R30 | Pointer: 30
+Input: R74 | Pointer: 4
+Input: L304 | Pointer: 0
+> password current: 499
+Input: L77 | Pointer: 23
+Input: R96 | Pointer: 19
+Input: R55 | Pointer: 74
+Input: R855 | Pointer: 29
+Input: R98 | Pointer: 27
+Input: L3 | Pointer: 24
+Input: L41 | Pointer: 83
+Input: R43 | Pointer: 26
+Input: R518 | Pointer: 44
+Input: L43 | Pointer: 1
+Input: R20 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 500
+Input: R82 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 501
+Input: L84 | Pointer: 16
+Input: R7 | Pointer: 23
+Input: L71 | Pointer: 52
+Input: R30 | Pointer: 82
+Input: L82 | Pointer: 0
+> password current: 502
+Input: L35 | Pointer: 65
+Input: R64 | Pointer: 29
+Input: L21 | Pointer: 8
+Input: L40 | Pointer: 68
+Input: R38 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 503
+Input: R746 | Pointer: 46
+Input: L22 | Pointer: 24
+Input: L23 | Pointer: 1
+Input: R50 | Pointer: 51
+Input: R24 | Pointer: 75
+Input: R74 | Pointer: 49
+Input: L85 | Pointer: 64
+Input: L5 | Pointer: 59
+Input: R75 | Pointer: 34
+Input: R66 | Pointer: 0
+> password current: 504
+Input: L1 | Pointer: 99
+Input: L56 | Pointer: 43
+Input: R5 | Pointer: 48
+Input: L68 | Pointer: 80
+Input: R199 | Pointer: 79
+Input: R2 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 505
+Input: R80 | Pointer: 80
+Input: L18 | Pointer: 62
+Input: L47 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 506
+Input: R54 | Pointer: 54
+Input: L54 | Pointer: 0
+> password current: 507
+Input: R48 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 508
+Input: R29 | Pointer: 29
+Input: L21 | Pointer: 8
+Input: R837 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 509
+Input: L4 | Pointer: 96
+Input: L596 | Pointer: 0
+> password current: 510
+Input: L93 | Pointer: 7
+Input: L76 | Pointer: 31
+Input: L531 | Pointer: 0
+> password current: 511
+Input: R65 | Pointer: 65
+Input: L65 | Pointer: 0
+> password current: 512
+Input: L17 | Pointer: 83
+Input: R17 | Pointer: 0
+> password current: 513
+Input: R699 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 514
+Input: R10 | Pointer: 10
+Input: R79 | Pointer: 89
+Input: R80 | Pointer: 69
+Input: R31 | Pointer: 0
+> password current: 515
+Input: L66 | Pointer: 34
+Input: L46 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 516
+Input: R21 | Pointer: 21
+Input: L77 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 517
+Input: R45 | Pointer: 45
+Input: R84 | Pointer: 29
+Input: R74 | Pointer: 3
+Input: L3 | Pointer: 0
+> password current: 518
+Input: L545 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 519
+Input: R81 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 520
+Input: L80 | Pointer: 20
+Input: L92 | Pointer: 28
+Input: R39 | Pointer: 67
+Input: L28 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 521
+Input: R323 | Pointer: 23
+Input: L58 | Pointer: 65
+Input: L865 | Pointer: 0
+> password current: 522
+Input: R390 | Pointer: 90
+Input: R41 | Pointer: 31
+Input: R360 | Pointer: 91
+Input: R55 | Pointer: 46
+Input: R472 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 523
+Input: L94 | Pointer: 6
+Input: L206 | Pointer: 0
+> password current: 524
+Input: L52 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 525
+Input: L20 | Pointer: 80
+Input: R57 | Pointer: 37
+Input: R42 | Pointer: 79
+Input: L479 | Pointer: 0
+> password current: 526
+Input: L140 | Pointer: 60
+Input: R26 | Pointer: 86
+Input: R122 | Pointer: 8
+Input: R992 | Pointer: 0
+> password current: 527
+Input: R352 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 528
+Input: L45 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 529
+Input: L59 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 530
+Input: R54 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 531
+Input: R21 | Pointer: 21
+Input: L25 | Pointer: 96
+Input: R68 | Pointer: 64
+Input: R265 | Pointer: 29
+Input: L896 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 532
+Input: R7 | Pointer: 7
+Input: R12 | Pointer: 19
+Input: L19 | Pointer: 0
+> password current: 533
+Input: L55 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 534
+Input: R2 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 535
+Input: R73 | Pointer: 73
+Input: L773 | Pointer: 0
+> password current: 536
+Input: R696 | Pointer: 96
+Input: L96 | Pointer: 0
+> password current: 537
+Input: R14 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 538
+Input: L40 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 539
+Input: L46 | Pointer: 54
+Input: R728 | Pointer: 82
+Input: R79 | Pointer: 61
+Input: R39 | Pointer: 0
+> password current: 540
+Input: R173 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 541
+Input: L53 | Pointer: 47
+Input: L58 | Pointer: 89
+Input: R58 | Pointer: 47
+Input: L69 | Pointer: 78
+Input: R47 | Pointer: 25
+Input: R675 | Pointer: 0
+> password current: 542
+Input: L746 | Pointer: 54
+Input: R20 | Pointer: 74
+Input: L10 | Pointer: 64
+Input: L86 | Pointer: 78
+Input: R15 | Pointer: 93
+Input: L58 | Pointer: 35
+Input: R59 | Pointer: 94
+Input: L94 | Pointer: 0
+> password current: 543
+Input: R44 | Pointer: 44
+Input: R87 | Pointer: 31
+Input: L89 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 544
+Input: R57 | Pointer: 57
+Input: L38 | Pointer: 19
+Input: L98 | Pointer: 21
+Input: R58 | Pointer: 79
+Input: L79 | Pointer: 0
+> password current: 545
+Input: L57 | Pointer: 43
+Input: L83 | Pointer: 60
+Input: L34 | Pointer: 26
+Input: L52 | Pointer: 74
+Input: R56 | Pointer: 30
+Input: R18 | Pointer: 48
+Input: R56 | Pointer: 4
+Input: L32 | Pointer: 72
+Input: R67 | Pointer: 39
+Input: L39 | Pointer: 0
+> password current: 546
+Input: R941 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 547
+Input: L58 | Pointer: 42
+Input: R58 | Pointer: 0
+> password current: 548
+Input: R64 | Pointer: 64
+Input: R980 | Pointer: 44
+Input: L439 | Pointer: 5
+Input: L32 | Pointer: 73
+Input: L32 | Pointer: 41
+Input: L79 | Pointer: 62
+Input: R1 | Pointer: 63
+Input: L51 | Pointer: 12
+Input: R124 | Pointer: 36
+Input: L36 | Pointer: 0
+> password current: 549
+Input: R33 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 550
+Input: R76 | Pointer: 76
+Input: R156 | Pointer: 32
+Input: R68 | Pointer: 0
+> password current: 551
+Input: R40 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 552
+Input: R98 | Pointer: 98
+Input: L609 | Pointer: 89
+Input: R86 | Pointer: 75
+Input: L92 | Pointer: 83
+Input: L365 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 553
+Input: R76 | Pointer: 76
+Input: R37 | Pointer: 13
+Input: L32 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 554
+Input: R38 | Pointer: 38
+Input: L45 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 555
+Input: L45 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 556
+Input: L83 | Pointer: 17
+Input: R85 | Pointer: 2
+Input: R33 | Pointer: 35
+Input: R65 | Pointer: 0
+> password current: 557
+Input: L11 | Pointer: 89
+Input: L89 | Pointer: 0
+> password current: 558
+Input: L5 | Pointer: 95
+Input: R82 | Pointer: 77
+Input: R23 | Pointer: 0
+> password current: 559
+Input: R154 | Pointer: 54
+Input: L44 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 560
+Input: L58 | Pointer: 42
+Input: R58 | Pointer: 0
+> password current: 561
+Input: L840 | Pointer: 60
+Input: R81 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 562
+Input: R816 | Pointer: 16
+Input: R80 | Pointer: 96
+Input: R3 | Pointer: 99
+Input: R64 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 563
+Input: R81 | Pointer: 81
+Input: L827 | Pointer: 54
+Input: L531 | Pointer: 23
+Input: R74 | Pointer: 97
+Input: R3 | Pointer: 0
+> password current: 564
+Input: L601 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 565
+Input: R17 | Pointer: 17
+Input: L643 | Pointer: 74
+Input: R89 | Pointer: 63
+Input: R137 | Pointer: 0
+> password current: 566
+Input: R538 | Pointer: 38
+Input: L938 | Pointer: 0
+> password current: 567
+Input: L10 | Pointer: 90
+Input: R50 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 568
+Input: L19 | Pointer: 81
+Input: L48 | Pointer: 33
+Input: R67 | Pointer: 0
+> password current: 569
+Input: L92 | Pointer: 8
+Input: R342 | Pointer: 50
+Input: L57 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 570
+Input: R32 | Pointer: 32
+Input: R660 | Pointer: 92
+Input: R38 | Pointer: 30
+Input: L43 | Pointer: 87
+Input: R87 | Pointer: 74
+Input: R43 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 571
+Input: R56 | Pointer: 56
+Input: L7 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 572
+Input: R12 | Pointer: 12
+Input: R88 | Pointer: 0
+> password current: 573
+Input: L38 | Pointer: 62
+Input: L48 | Pointer: 14
+Input: R80 | Pointer: 94
+Input: L65 | Pointer: 29
+Input: L33 | Pointer: 96
+Input: L27 | Pointer: 69
+Input: R52 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 574
+Input: R13 | Pointer: 13
+Input: R87 | Pointer: 0
+> password current: 575
+Input: R52 | Pointer: 52
+Input: L64 | Pointer: 88
+Input: L65 | Pointer: 23
+Input: L9 | Pointer: 14
+Input: R30 | Pointer: 44
+Input: L35 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 576
+Input: L98 | Pointer: 2
+Input: R98 | Pointer: 0
+> password current: 577
+Input: L47 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 578
+Input: R87 | Pointer: 87
+Input: R71 | Pointer: 58
+Input: R1 | Pointer: 59
+Input: L59 | Pointer: 0
+> password current: 579
+Input: L23 | Pointer: 77
+Input: R23 | Pointer: 0
+> password current: 580
+Input: R54 | Pointer: 54
+Input: L78 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 581
+Input: L156 | Pointer: 44
+Input: R28 | Pointer: 72
+Input: R42 | Pointer: 14
+Input: R46 | Pointer: 60
+Input: L765 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 582
+Input: R28 | Pointer: 28
+Input: R72 | Pointer: 0
+> password current: 583
+Input: L69 | Pointer: 31
+Input: L30 | Pointer: 1
+Input: L67 | Pointer: 34
+Input: R739 | Pointer: 73
+Input: R1 | Pointer: 74
+Input: L1 | Pointer: 73
+Input: R58 | Pointer: 31
+Input: L63 | Pointer: 68
+Input: L43 | Pointer: 25
+Input: R496 | Pointer: 21
+Input: L45 | Pointer: 76
+Input: R647 | Pointer: 23
+Input: R77 | Pointer: 0
+> password current: 584
+Input: R28 | Pointer: 28
+Input: R72 | Pointer: 0
+> password current: 585
+Input: L75 | Pointer: 25
+Input: L81 | Pointer: 44
+Input: L180 | Pointer: 64
+Input: R47 | Pointer: 11
+Input: L51 | Pointer: 60
+Input: R72 | Pointer: 32
+Input: R31 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 586
+Input: R84 | Pointer: 84
+Input: R616 | Pointer: 0
+> password current: 587
+Input: L42 | Pointer: 58
+Input: L30 | Pointer: 28
+Input: R63 | Pointer: 91
+Input: R51 | Pointer: 42
+Input: R97 | Pointer: 39
+Input: R86 | Pointer: 25
+Input: L25 | Pointer: 0
+> password current: 588
+Input: R339 | Pointer: 39
+Input: L439 | Pointer: 0
+> password current: 589
+Input: R839 | Pointer: 39
+Input: R36 | Pointer: 75
+Input: R57 | Pointer: 32
+Input: L9 | Pointer: 23
+Input: R84 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 590
+Input: L33 | Pointer: 67
+Input: R98 | Pointer: 65
+Input: R35 | Pointer: 0
+> password current: 591
+Input: L53 | Pointer: 47
+Input: L222 | Pointer: 25
+Input: R70 | Pointer: 95
+Input: R22 | Pointer: 17
+Input: L7 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 592
+Input: L9 | Pointer: 91
+Input: R9 | Pointer: 0
+> password current: 593
+Input: R63 | Pointer: 63
+Input: L452 | Pointer: 11
+Input: L184 | Pointer: 27
+Input: R60 | Pointer: 87
+Input: L87 | Pointer: 0
+> password current: 594
+Input: R924 | Pointer: 24
+Input: R76 | Pointer: 0
+> password current: 595
+Input: L19 | Pointer: 81
+Input: L76 | Pointer: 5
+Input: L67 | Pointer: 38
+Input: L38 | Pointer: 0
+> password current: 596
+Input: L830 | Pointer: 70
+Input: R97 | Pointer: 67
+Input: R133 | Pointer: 0
+> password current: 597
+Input: R21 | Pointer: 21
+Input: L29 | Pointer: 92
+Input: R84 | Pointer: 76
+Input: L2 | Pointer: 74
+Input: R43 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 598
+Input: L13 | Pointer: 87
+Input: L62 | Pointer: 25
+Input: L77 | Pointer: 48
+Input: R60 | Pointer: 8
+Input: R79 | Pointer: 87
+Input: L30 | Pointer: 57
+Input: L757 | Pointer: 0
+> password current: 599
+Input: R29 | Pointer: 29
+Input: L269 | Pointer: 60
+Input: R21 | Pointer: 81
+Input: R2 | Pointer: 83
+Input: R54 | Pointer: 37
+Input: R756 | Pointer: 93
+Input: L33 | Pointer: 60
+Input: L14 | Pointer: 46
+Input: R14 | Pointer: 60
+Input: L98 | Pointer: 62
+Input: L973 | Pointer: 89
+Input: L489 | Pointer: 0
+> password current: 600
+Input: R98 | Pointer: 98
+Input: R26 | Pointer: 24
+Input: L924 | Pointer: 0
+> password current: 601
+Input: L21 | Pointer: 79
+Input: L29 | Pointer: 50
+Input: R5 | Pointer: 55
+Input: L12 | Pointer: 43
+Input: R57 | Pointer: 0
+> password current: 602
+Input: R17 | Pointer: 17
+Input: L67 | Pointer: 50
+Input: R902 | Pointer: 52
+Input: L61 | Pointer: 91
+Input: R98 | Pointer: 89
+Input: R31 | Pointer: 20
+Input: L790 | Pointer: 30
+Input: L44 | Pointer: 86
+Input: L6 | Pointer: 80
+Input: R420 | Pointer: 0
+> password current: 603
+Input: R15 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 604
+Input: L508 | Pointer: 92
+Input: L83 | Pointer: 9
+Input: L28 | Pointer: 81
+Input: R77 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 605
+Input: L59 | Pointer: 41
+Input: L62 | Pointer: 79
+Input: L49 | Pointer: 30
+Input: R70 | Pointer: 0
+> password current: 606
+Input: L59 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 607
+Input: R35 | Pointer: 35
+Input: L50 | Pointer: 85
+Input: L64 | Pointer: 21
+Input: R79 | Pointer: 0
+> password current: 608
+Input: R84 | Pointer: 84
+Input: R83 | Pointer: 67
+Input: R33 | Pointer: 0
+> password current: 609
+Input: R23 | Pointer: 23
+Input: R86 | Pointer: 9
+Input: L57 | Pointer: 52
+Input: L341 | Pointer: 11
+Input: L68 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 610
+Input: R54 | Pointer: 54
+Input: L761 | Pointer: 93
+Input: R48 | Pointer: 41
+Input: L641 | Pointer: 0
+> password current: 611
+Input: L23 | Pointer: 77
+Input: L69 | Pointer: 8
+Input: R79 | Pointer: 87
+Input: L53 | Pointer: 34
+Input: R66 | Pointer: 0
+> password current: 612
+Input: R864 | Pointer: 64
+Input: R24 | Pointer: 88
+Input: L21 | Pointer: 67
+Input: R44 | Pointer: 11
+Input: L559 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 613
+Input: R47 | Pointer: 47
+Input: R39 | Pointer: 86
+Input: R3 | Pointer: 89
+Input: L508 | Pointer: 81
+Input: L978 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 614
+Input: L38 | Pointer: 62
+Input: L96 | Pointer: 66
+Input: R34 | Pointer: 0
+> password current: 615
+Input: R19 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 616
+Input: R83 | Pointer: 83
+Input: R17 | Pointer: 0
+> password current: 617
+Input: L70 | Pointer: 30
+Input: R70 | Pointer: 0
+> password current: 618
+Input: L44 | Pointer: 56
+Input: R99 | Pointer: 55
+Input: R18 | Pointer: 73
+Input: R32 | Pointer: 5
+Input: R95 | Pointer: 0
+> password current: 619
+Input: L10 | Pointer: 90
+Input: R96 | Pointer: 86
+Input: L52 | Pointer: 34
+Input: R64 | Pointer: 98
+Input: R2 | Pointer: 0
+> password current: 620
+Input: R7 | Pointer: 7
+Input: R93 | Pointer: 0
+> password current: 621
+Input: L15 | Pointer: 85
+Input: R15 | Pointer: 0
+> password current: 622
+Input: R45 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 623
+Input: L59 | Pointer: 41
+Input: R80 | Pointer: 21
+Input: R63 | Pointer: 84
+Input: L8 | Pointer: 76
+Input: R38 | Pointer: 14
+Input: L81 | Pointer: 33
+Input: R7 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 624
+Input: L9 | Pointer: 91
+Input: L64 | Pointer: 27
+Input: R73 | Pointer: 0
+> password current: 625
+Input: L12 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 626
+Input: R54 | Pointer: 54
+Input: L54 | Pointer: 0
+> password current: 627
+Input: L563 | Pointer: 37
+Input: R59 | Pointer: 96
+Input: L46 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 628
+Input: L436 | Pointer: 64
+Input: R36 | Pointer: 0
+> password current: 629
+Input: R91 | Pointer: 91
+Input: R609 | Pointer: 0
+> password current: 630
+Input: R15 | Pointer: 15
+Input: R21 | Pointer: 36
+Input: R215 | Pointer: 51
+Input: L75 | Pointer: 76
+Input: L79 | Pointer: 97
+Input: R10 | Pointer: 7
+Input: L1 | Pointer: 6
+Input: L52 | Pointer: 54
+Input: L54 | Pointer: 0
+> password current: 631
+Input: L40 | Pointer: 60
+Input: L350 | Pointer: 10
+Input: L91 | Pointer: 19
+Input: R28 | Pointer: 47
+Input: R53 | Pointer: 0
+> password current: 632
+Input: R78 | Pointer: 78
+Input: L27 | Pointer: 51
+Input: R80 | Pointer: 31
+Input: L73 | Pointer: 58
+Input: R46 | Pointer: 4
+Input: R9 | Pointer: 13
+Input: R81 | Pointer: 94
+Input: R52 | Pointer: 46
+Input: R2 | Pointer: 48
+Input: R36 | Pointer: 84
+Input: R56 | Pointer: 40
+Input: L84 | Pointer: 56
+Input: L181 | Pointer: 75
+Input: R85 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 633
+Input: L21 | Pointer: 79
+Input: L84 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 634
+Input: R674 | Pointer: 74
+Input: R389 | Pointer: 63
+Input: L85 | Pointer: 78
+Input: R89 | Pointer: 67
+Input: L947 | Pointer: 20
+Input: L3 | Pointer: 17
+Input: L17 | Pointer: 0
+> password current: 635
+Input: R58 | Pointer: 58
+Input: R22 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 636
+Input: L346 | Pointer: 54
+Input: R295 | Pointer: 49
+Input: R73 | Pointer: 22
+Input: R87 | Pointer: 9
+Input: R19 | Pointer: 28
+Input: R39 | Pointer: 67
+Input: R55 | Pointer: 22
+Input: R76 | Pointer: 98
+Input: R2 | Pointer: 0
+> password current: 637
+Input: L45 | Pointer: 55
+Input: L996 | Pointer: 59
+Input: R76 | Pointer: 35
+Input: L94 | Pointer: 41
+Input: L88 | Pointer: 53
+Input: L80 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 638
+Input: L169 | Pointer: 31
+Input: L31 | Pointer: 0
+> password current: 639
+Input: L64 | Pointer: 36
+Input: L36 | Pointer: 0
+> password current: 640
+Input: R857 | Pointer: 57
+Input: R4 | Pointer: 61
+Input: R39 | Pointer: 0
+> password current: 641
+Input: L64 | Pointer: 36
+Input: R21 | Pointer: 57
+Input: R89 | Pointer: 46
+Input: L46 | Pointer: 0
+> password current: 642
+Input: L65 | Pointer: 35
+Input: L17 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 643
+Input: L97 | Pointer: 3
+Input: L46 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 644
+Input: L20 | Pointer: 80
+Input: R80 | Pointer: 60
+Input: R489 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 645
+Input: L69 | Pointer: 31
+Input: L5 | Pointer: 26
+Input: L85 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 646
+Input: R74 | Pointer: 74
+Input: L14 | Pointer: 60
+Input: L60 | Pointer: 0
+> password current: 647
+Input: R23 | Pointer: 23
+Input: R52 | Pointer: 75
+Input: R12 | Pointer: 87
+Input: R50 | Pointer: 37
+Input: R33 | Pointer: 70
+Input: R46 | Pointer: 16
+Input: L16 | Pointer: 0
+> password current: 648
+Input: L14 | Pointer: 86
+Input: L86 | Pointer: 0
+> password current: 649
+Input: R30 | Pointer: 30
+Input: L30 | Pointer: 0
+> password current: 650
+Input: L76 | Pointer: 24
+Input: L24 | Pointer: 0
+> password current: 651
+Input: R83 | Pointer: 83
+Input: L50 | Pointer: 33
+Input: L45 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 652
+Input: R79 | Pointer: 79
+Input: L679 | Pointer: 0
+> password current: 653
+Input: R33 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 654
+Input: L58 | Pointer: 42
+Input: R29 | Pointer: 71
+Input: R29 | Pointer: 0
+> password current: 655
+Input: R68 | Pointer: 68
+Input: R98 | Pointer: 66
+Input: R934 | Pointer: 0
+> password current: 656
+Input: R438 | Pointer: 38
+Input: R14 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 657
+Input: R29 | Pointer: 29
+Input: L42 | Pointer: 87
+Input: R33 | Pointer: 20
+Input: L20 | Pointer: 0
+> password current: 658
+Input: L150 | Pointer: 50
+Input: R7 | Pointer: 57
+Input: R99 | Pointer: 56
+Input: R17 | Pointer: 73
+Input: L72 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 659
+Input: L69 | Pointer: 31
+Input: R38 | Pointer: 69
+Input: L69 | Pointer: 0
+> password current: 660
+Input: L55 | Pointer: 45
+Input: L45 | Pointer: 0
+> password current: 661
+Input: R82 | Pointer: 82
+Input: L82 | Pointer: 0
+> password current: 662
+Input: L92 | Pointer: 8
+Input: R65 | Pointer: 73
+Input: R57 | Pointer: 30
+Input: R70 | Pointer: 0
+> password current: 663
+Input: L12 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 664
+Input: L667 | Pointer: 33
+Input: L33 | Pointer: 0
+> password current: 665
+Input: L977 | Pointer: 23
+Input: L836 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 666
+Input: R781 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 667
+Input: L209 | Pointer: 91
+Input: L649 | Pointer: 42
+Input: R82 | Pointer: 24
+Input: L16 | Pointer: 8
+Input: L8 | Pointer: 0
+> password current: 668
+Input: R996 | Pointer: 96
+Input: L28 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 669
+Input: L94 | Pointer: 6
+Input: R256 | Pointer: 62
+Input: L62 | Pointer: 0
+> password current: 670
+Input: R510 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 671
+Input: L965 | Pointer: 35
+Input: R29 | Pointer: 64
+Input: R41 | Pointer: 5
+Input: R31 | Pointer: 36
+Input: R36 | Pointer: 72
+Input: L49 | Pointer: 23
+Input: R66 | Pointer: 89
+Input: R2 | Pointer: 91
+Input: R97 | Pointer: 88
+Input: L688 | Pointer: 0
+> password current: 672
+Input: R42 | Pointer: 42
+Input: L96 | Pointer: 46
+Input: L46 | Pointer: 0
+> password current: 673
+Input: R92 | Pointer: 92
+Input: R965 | Pointer: 57
+Input: L57 | Pointer: 0
+> password current: 674
+Input: R17 | Pointer: 17
+Input: R683 | Pointer: 0
+> password current: 675
+Input: R84 | Pointer: 84
+Input: R16 | Pointer: 0
+> password current: 676
+Input: L71 | Pointer: 29
+Input: L30 | Pointer: 99
+Input: L42 | Pointer: 57
+Input: L223 | Pointer: 34
+Input: R66 | Pointer: 0
+> password current: 677
+Input: L761 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 678
+Input: L54 | Pointer: 46
+Input: L588 | Pointer: 58
+Input: L598 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 679
+Input: L14 | Pointer: 86
+Input: R89 | Pointer: 75
+Input: R25 | Pointer: 0
+> password current: 680
+Input: R92 | Pointer: 92
+Input: R65 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 681
+Input: R29 | Pointer: 29
+Input: R152 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 682
+Input: L54 | Pointer: 46
+Input: R54 | Pointer: 0
+> password current: 683
+Input: L6 | Pointer: 94
+Input: R18 | Pointer: 12
+Input: R278 | Pointer: 90
+Input: R10 | Pointer: 0
+> password current: 684
+Input: R84 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 685
+Input: L5 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 686
+Input: R62 | Pointer: 62
+Input: R91 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 687
+Input: R6 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 688
+Input: R40 | Pointer: 40
+Input: R86 | Pointer: 26
+Input: L869 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 689
+Input: R169 | Pointer: 69
+Input: L22 | Pointer: 47
+Input: L77 | Pointer: 70
+Input: L194 | Pointer: 76
+Input: R24 | Pointer: 0
+> password current: 690
+Input: R569 | Pointer: 69
+Input: L69 | Pointer: 0
+> password current: 691
+Input: L91 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 692
+Input: L51 | Pointer: 49
+Input: L90 | Pointer: 59
+Input: L159 | Pointer: 0
+> password current: 693
+Input: R70 | Pointer: 70
+Input: R299 | Pointer: 69
+Input: R9 | Pointer: 78
+Input: R19 | Pointer: 97
+Input: L97 | Pointer: 0
+> password current: 694
+Input: R61 | Pointer: 61
+Input: R39 | Pointer: 0
+> password current: 695
+Input: R152 | Pointer: 52
+Input: L89 | Pointer: 63
+Input: R179 | Pointer: 42
+Input: R22 | Pointer: 64
+Input: L64 | Pointer: 0
+> password current: 696
+Input: R673 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 697
+Input: R74 | Pointer: 74
+Input: R26 | Pointer: 0
+> password current: 698
+Input: L6 | Pointer: 94
+Input: R16 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 699
+Input: L46 | Pointer: 54
+Input: L93 | Pointer: 61
+Input: L368 | Pointer: 93
+Input: L40 | Pointer: 53
+Input: L53 | Pointer: 0
+> password current: 700
+Input: R90 | Pointer: 90
+Input: R27 | Pointer: 17
+Input: R72 | Pointer: 89
+Input: L89 | Pointer: 0
+> password current: 701
+Input: L4 | Pointer: 96
+Input: L96 | Pointer: 0
+> password current: 702
+Input: L84 | Pointer: 16
+Input: R28 | Pointer: 44
+Input: R60 | Pointer: 4
+Input: L4 | Pointer: 0
+> password current: 703
+Input: L6 | Pointer: 94
+Input: L42 | Pointer: 52
+Input: R49 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 704
+Input: L819 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 705
+Input: L198 | Pointer: 2
+Input: R78 | Pointer: 80
+Input: R35 | Pointer: 15
+Input: R685 | Pointer: 0
+> password current: 706
+Input: R31 | Pointer: 31
+Input: L31 | Pointer: 0
+> password current: 707
+Input: L43 | Pointer: 57
+Input: L39 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 708
+Input: R11 | Pointer: 11
+Input: L838 | Pointer: 73
+Input: L78 | Pointer: 95
+Input: L952 | Pointer: 43
+Input: R38 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 709
+Input: L637 | Pointer: 63
+Input: R36 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 710
+Input: R232 | Pointer: 32
+Input: R16 | Pointer: 48
+Input: R381 | Pointer: 29
+Input: R889 | Pointer: 18
+Input: R76 | Pointer: 94
+Input: L76 | Pointer: 18
+Input: R882 | Pointer: 0
+> password current: 711
+Input: L753 | Pointer: 47
+Input: L54 | Pointer: 93
+Input: R68 | Pointer: 61
+Input: R48 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 712
+Input: L17 | Pointer: 83
+Input: R38 | Pointer: 21
+Input: R79 | Pointer: 0
+> password current: 713
+Input: L2 | Pointer: 98
+Input: L75 | Pointer: 23
+Input: L97 | Pointer: 26
+Input: L89 | Pointer: 37
+Input: R59 | Pointer: 96
+Input: L32 | Pointer: 64
+Input: L73 | Pointer: 91
+Input: R68 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 714
+Input: L50 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 715
+Input: L33 | Pointer: 67
+Input: L926 | Pointer: 41
+Input: R43 | Pointer: 84
+Input: L39 | Pointer: 45
+Input: L86 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 716
+Input: R74 | Pointer: 74
+Input: R614 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 717
+Input: R35 | Pointer: 35
+Input: L90 | Pointer: 45
+Input: L28 | Pointer: 17
+Input: L216 | Pointer: 1
+Input: L18 | Pointer: 83
+Input: L86 | Pointer: 97
+Input: L86 | Pointer: 11
+Input: L63 | Pointer: 48
+Input: R40 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 718
+Input: L237 | Pointer: 63
+Input: R59 | Pointer: 22
+Input: L822 | Pointer: 0
+> password current: 719
+Input: L639 | Pointer: 61
+Input: R58 | Pointer: 19
+Input: R72 | Pointer: 91
+Input: L91 | Pointer: 0
+> password current: 720
+Input: L13 | Pointer: 87
+Input: R49 | Pointer: 36
+Input: L46 | Pointer: 90
+Input: R62 | Pointer: 52
+Input: L17 | Pointer: 35
+Input: L26 | Pointer: 9
+Input: L67 | Pointer: 42
+Input: R98 | Pointer: 40
+Input: R293 | Pointer: 33
+Input: L54 | Pointer: 79
+Input: L365 | Pointer: 14
+Input: L54 | Pointer: 60
+Input: R17 | Pointer: 77
+Input: R64 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 721
+Input: L76 | Pointer: 24
+Input: R93 | Pointer: 17
+Input: R38 | Pointer: 55
+Input: L83 | Pointer: 72
+Input: L72 | Pointer: 0
+> password current: 722
+Input: L88 | Pointer: 12
+Input: L12 | Pointer: 0
+> password current: 723
+Input: R72 | Pointer: 72
+Input: L17 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 724
+Input: L51 | Pointer: 49
+Input: L89 | Pointer: 60
+Input: R81 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 725
+Input: L86 | Pointer: 14
+Input: L14 | Pointer: 0
+> password current: 726
+Input: R31 | Pointer: 31
+Input: L31 | Pointer: 0
+> password current: 727
+Input: L55 | Pointer: 45
+Input: R57 | Pointer: 2
+Input: R33 | Pointer: 35
+Input: L70 | Pointer: 65
+Input: L65 | Pointer: 0
+> password current: 728
+Input: R661 | Pointer: 61
+Input: L36 | Pointer: 25
+Input: R37 | Pointer: 62
+Input: L2 | Pointer: 60
+Input: L75 | Pointer: 85
+Input: L574 | Pointer: 11
+Input: L24 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 729
+Input: R18 | Pointer: 18
+Input: R82 | Pointer: 0
+> password current: 730
+Input: R49 | Pointer: 49
+Input: R81 | Pointer: 30
+Input: R596 | Pointer: 26
+Input: R74 | Pointer: 0
+> password current: 731
+Input: L5 | Pointer: 95
+Input: R205 | Pointer: 0
+> password current: 732
+Input: R9 | Pointer: 9
+Input: L48 | Pointer: 61
+Input: R42 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 733
+Input: L99 | Pointer: 1
+Input: R786 | Pointer: 87
+Input: R913 | Pointer: 0
+> password current: 734
+Input: R138 | Pointer: 38
+Input: L38 | Pointer: 0
+> password current: 735
+Input: L97 | Pointer: 3
+Input: L5 | Pointer: 98
+Input: L777 | Pointer: 21
+Input: L40 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 736
+Input: L562 | Pointer: 38
+Input: L61 | Pointer: 77
+Input: L525 | Pointer: 52
+Input: R48 | Pointer: 0
+> password current: 737
+Input: L7 | Pointer: 93
+Input: L84 | Pointer: 9
+Input: L732 | Pointer: 77
+Input: R23 | Pointer: 0
+> password current: 738
+Input: L42 | Pointer: 58
+Input: R99 | Pointer: 57
+Input: L832 | Pointer: 25
+Input: L525 | Pointer: 0
+> password current: 739
+Input: L405 | Pointer: 95
+Input: R99 | Pointer: 94
+Input: L35 | Pointer: 59
+Input: R33 | Pointer: 92
+Input: L9 | Pointer: 83
+Input: L86 | Pointer: 97
+Input: L5 | Pointer: 92
+Input: R94 | Pointer: 86
+Input: R217 | Pointer: 3
+Input: L79 | Pointer: 24
+Input: R58 | Pointer: 82
+Input: R518 | Pointer: 0
+> password current: 740
+Input: R19 | Pointer: 19
+Input: L16 | Pointer: 3
+Input: R57 | Pointer: 60
+Input: R994 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 741
+Input: R67 | Pointer: 67
+Input: R33 | Pointer: 0
+> password current: 742
+Input: R95 | Pointer: 95
+Input: L76 | Pointer: 19
+Input: L67 | Pointer: 52
+Input: L52 | Pointer: 0
+> password current: 743
+Input: L95 | Pointer: 5
+Input: L49 | Pointer: 56
+Input: L56 | Pointer: 0
+> password current: 744
+Input: R75 | Pointer: 75
+Input: L48 | Pointer: 27
+Input: R92 | Pointer: 19
+Input: L13 | Pointer: 6
+Input: R86 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 745
+Input: L95 | Pointer: 5
+Input: R21 | Pointer: 26
+Input: R11 | Pointer: 37
+Input: L38 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 746
+Input: R51 | Pointer: 51
+Input: R696 | Pointer: 47
+Input: R69 | Pointer: 16
+Input: R82 | Pointer: 98
+Input: R87 | Pointer: 85
+Input: R15 | Pointer: 0
+> password current: 747
+Input: L71 | Pointer: 29
+Input: L129 | Pointer: 0
+> password current: 748
+Input: R32 | Pointer: 32
+Input: L84 | Pointer: 48
+Input: R14 | Pointer: 62
+Input: R71 | Pointer: 33
+Input: R82 | Pointer: 15
+Input: L12 | Pointer: 3
+Input: L93 | Pointer: 10
+Input: R65 | Pointer: 75
+Input: L75 | Pointer: 0
+> password current: 749
+Input: L852 | Pointer: 48
+Input: R83 | Pointer: 31
+Input: L42 | Pointer: 89
+Input: R51 | Pointer: 40
+Input: R53 | Pointer: 93
+Input: L381 | Pointer: 12
+Input: R93 | Pointer: 5
+Input: R79 | Pointer: 84
+Input: R667 | Pointer: 51
+Input: L51 | Pointer: 0
+> password current: 750
+Input: R24 | Pointer: 24
+Input: R72 | Pointer: 96
+Input: R4 | Pointer: 0
+> password current: 751
+Input: L65 | Pointer: 35
+Input: L35 | Pointer: 0
+> password current: 752
+Input: R63 | Pointer: 63
+Input: L67 | Pointer: 96
+Input: L93 | Pointer: 3
+Input: L993 | Pointer: 10
+Input: R41 | Pointer: 51
+Input: R69 | Pointer: 20
+Input: R93 | Pointer: 13
+Input: L26 | Pointer: 87
+Input: L83 | Pointer: 4
+Input: R78 | Pointer: 82
+Input: L92 | Pointer: 90
+Input: L7 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 753
+Input: R96 | Pointer: 96
+Input: R48 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 754
+Input: R798 | Pointer: 98
+Input: L98 | Pointer: 0
+> password current: 755
+Input: L52 | Pointer: 48
+Input: R96 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 756
+Input: R77 | Pointer: 77
+Input: L79 | Pointer: 98
+Input: R60 | Pointer: 58
+Input: R21 | Pointer: 79
+Input: R732 | Pointer: 11
+Input: R55 | Pointer: 66
+Input: R20 | Pointer: 86
+Input: R57 | Pointer: 43
+Input: L55 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 757
+Input: L911 | Pointer: 89
+Input: L89 | Pointer: 0
+> password current: 758
+Input: L22 | Pointer: 78
+Input: L17 | Pointer: 61
+Input: R739 | Pointer: 0
+> password current: 759
+Input: L4 | Pointer: 96
+Input: L591 | Pointer: 5
+Input: L11 | Pointer: 94
+Input: R31 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 760
+Input: L87 | Pointer: 13
+Input: R87 | Pointer: 0
+> password current: 761
+Input: L23 | Pointer: 77
+Input: R66 | Pointer: 43
+Input: R457 | Pointer: 0
+> password current: 762
+Input: L5 | Pointer: 95
+Input: L95 | Pointer: 0
+> password current: 763
+Input: L243 | Pointer: 57
+Input: R94 | Pointer: 51
+Input: L320 | Pointer: 31
+Input: R3 | Pointer: 34
+Input: R32 | Pointer: 66
+Input: R634 | Pointer: 0
+> password current: 764
+Input: R90 | Pointer: 90
+Input: R10 | Pointer: 0
+> password current: 765
+Input: L25 | Pointer: 75
+Input: R48 | Pointer: 23
+Input: R77 | Pointer: 0
+> password current: 766
+Input: L72 | Pointer: 28
+Input: L19 | Pointer: 9
+Input: L68 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 767
+Input: L59 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 768
+Input: R3 | Pointer: 3
+Input: L5 | Pointer: 98
+Input: R78 | Pointer: 76
+Input: R24 | Pointer: 0
+> password current: 769
+Input: L39 | Pointer: 61
+Input: L11 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 770
+Input: R53 | Pointer: 53
+Input: R12 | Pointer: 65
+Input: L71 | Pointer: 94
+Input: R79 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 771
+Input: R67 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 772
+Input: L58 | Pointer: 42
+Input: L77 | Pointer: 65
+Input: L14 | Pointer: 51
+Input: L3 | Pointer: 48
+Input: R65 | Pointer: 13
+Input: R59 | Pointer: 72
+Input: R60 | Pointer: 32
+Input: L77 | Pointer: 55
+Input: R43 | Pointer: 98
+Input: L77 | Pointer: 21
+Input: L96 | Pointer: 25
+Input: R57 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 773
+Input: L881 | Pointer: 19
+Input: L47 | Pointer: 72
+Input: L289 | Pointer: 83
+Input: R437 | Pointer: 20
+Input: R35 | Pointer: 55
+Input: R10 | Pointer: 65
+Input: L712 | Pointer: 53
+Input: R77 | Pointer: 30
+Input: L1 | Pointer: 29
+Input: L750 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 774
+Input: L50 | Pointer: 50
+Input: L71 | Pointer: 79
+Input: L666 | Pointer: 13
+Input: R187 | Pointer: 0
+> password current: 775
+Input: L81 | Pointer: 19
+Input: L49 | Pointer: 70
+Input: R57 | Pointer: 27
+Input: R75 | Pointer: 2
+Input: L48 | Pointer: 54
+Input: L654 | Pointer: 0
+> password current: 776
+Input: L73 | Pointer: 27
+Input: L407 | Pointer: 20
+Input: L320 | Pointer: 0
+> password current: 777
+Input: R435 | Pointer: 35
+Input: L62 | Pointer: 73
+Input: L68 | Pointer: 5
+Input: L805 | Pointer: 0
+> password current: 778
+Input: L941 | Pointer: 59
+Input: R36 | Pointer: 95
+Input: L24 | Pointer: 71
+Input: L871 | Pointer: 0
+> password current: 779
+Input: R97 | Pointer: 97
+Input: L58 | Pointer: 39
+Input: R15 | Pointer: 54
+Input: L93 | Pointer: 61
+Input: L61 | Pointer: 0
+> password current: 780
+Input: L732 | Pointer: 68
+Input: L84 | Pointer: 84
+Input: L1 | Pointer: 83
+Input: R356 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 781
+Input: L8 | Pointer: 92
+Input: R658 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 782
+Input: R52 | Pointer: 52
+Input: R479 | Pointer: 31
+Input: L31 | Pointer: 0
+> password current: 783
+Input: L67 | Pointer: 33
+Input: L13 | Pointer: 20
+Input: R3 | Pointer: 23
+Input: R46 | Pointer: 69
+Input: L31 | Pointer: 38
+Input: L96 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 784
+Input: R68 | Pointer: 68
+Input: R832 | Pointer: 0
+> password current: 785
+Input: R48 | Pointer: 48
+Input: L15 | Pointer: 33
+Input: L833 | Pointer: 0
+> password current: 786
+Input: R73 | Pointer: 73
+Input: R718 | Pointer: 91
+Input: L38 | Pointer: 53
+Input: L994 | Pointer: 59
+Input: R35 | Pointer: 94
+Input: R74 | Pointer: 68
+Input: L70 | Pointer: 98
+Input: R38 | Pointer: 36
+Input: L4 | Pointer: 32
+Input: R15 | Pointer: 47
+Input: R39 | Pointer: 86
+Input: R68 | Pointer: 54
+Input: R52 | Pointer: 6
+Input: R74 | Pointer: 80
+Input: R54 | Pointer: 34
+Input: L49 | Pointer: 85
+Input: R25 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 787
+Input: R14 | Pointer: 14
+Input: L50 | Pointer: 64
+Input: R32 | Pointer: 96
+Input: L97 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 788
+Input: R97 | Pointer: 97
+Input: L41 | Pointer: 56
+Input: R20 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 789
+Input: R96 | Pointer: 96
+Input: L596 | Pointer: 0
+> password current: 790
+Input: R23 | Pointer: 23
+Input: L303 | Pointer: 20
+Input: R97 | Pointer: 17
+Input: L16 | Pointer: 1
+Input: R64 | Pointer: 65
+Input: L70 | Pointer: 95
+Input: L96 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 791
+Input: L86 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 792
+Input: L93 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 793
+Input: R42 | Pointer: 42
+Input: R94 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 794
+Input: R93 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 795
+Input: R44 | Pointer: 44
+Input: L44 | Pointer: 0
+> password current: 796
+Input: L19 | Pointer: 81
+Input: R18 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 797
+Input: R204 | Pointer: 4
+Input: R96 | Pointer: 0
+> password current: 798
+Input: R34 | Pointer: 34
+Input: L606 | Pointer: 28
+Input: R872 | Pointer: 0
+> password current: 799
+Input: L74 | Pointer: 26
+Input: L51 | Pointer: 75
+Input: R92 | Pointer: 67
+Input: R73 | Pointer: 40
+Input: R131 | Pointer: 71
+Input: L977 | Pointer: 94
+Input: R6 | Pointer: 0
+> password current: 800
+Input: R17 | Pointer: 17
+Input: R32 | Pointer: 49
+Input: L84 | Pointer: 65
+Input: R58 | Pointer: 23
+Input: L23 | Pointer: 0
+> password current: 801
+Input: L16 | Pointer: 84
+Input: L61 | Pointer: 23
+Input: L19 | Pointer: 4
+Input: R2 | Pointer: 6
+Input: L6 | Pointer: 0
+> password current: 802
+Input: R86 | Pointer: 86
+Input: L386 | Pointer: 0
+> password current: 803
+Input: L925 | Pointer: 75
+Input: L5 | Pointer: 70
+Input: R30 | Pointer: 0
+> password current: 804
+Input: L706 | Pointer: 94
+Input: R14 | Pointer: 8
+Input: R60 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 805
+Input: R85 | Pointer: 85
+Input: L85 | Pointer: 0
+> password current: 806
+Input: R44 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 807
+Input: L87 | Pointer: 13
+Input: L21 | Pointer: 92
+Input: R908 | Pointer: 0
+> password current: 808
+Input: L171 | Pointer: 29
+Input: R2 | Pointer: 31
+Input: R62 | Pointer: 93
+Input: L493 | Pointer: 0
+> password current: 809
+Input: R666 | Pointer: 66
+Input: L166 | Pointer: 0
+> password current: 810
+Input: L27 | Pointer: 73
+Input: L640 | Pointer: 33
+Input: R67 | Pointer: 0
+> password current: 811
+Input: L219 | Pointer: 81
+Input: L793 | Pointer: 88
+Input: R28 | Pointer: 16
+Input: R33 | Pointer: 49
+Input: R28 | Pointer: 77
+Input: L777 | Pointer: 0
+> password current: 812
+Input: L98 | Pointer: 2
+Input: R68 | Pointer: 70
+Input: R38 | Pointer: 8
+Input: R6 | Pointer: 14
+Input: R493 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 813
+Input: R40 | Pointer: 40
+Input: L934 | Pointer: 6
+Input: L97 | Pointer: 9
+Input: L9 | Pointer: 0
+> password current: 814
+Input: L316 | Pointer: 84
+Input: R816 | Pointer: 0
+> password current: 815
+Input: R87 | Pointer: 87
+Input: L87 | Pointer: 0
+> password current: 816
+Input: L20 | Pointer: 80
+Input: L41 | Pointer: 39
+Input: R88 | Pointer: 27
+Input: R39 | Pointer: 66
+Input: R40 | Pointer: 6
+Input: L817 | Pointer: 89
+Input: L66 | Pointer: 23
+Input: R7 | Pointer: 30
+Input: R4 | Pointer: 34
+Input: L93 | Pointer: 41
+Input: L975 | Pointer: 66
+Input: R46 | Pointer: 12
+Input: L46 | Pointer: 66
+Input: R852 | Pointer: 18
+Input: R111 | Pointer: 29
+Input: L15 | Pointer: 14
+Input: R886 | Pointer: 0
+> password current: 817
+Input: R20 | Pointer: 20
+Input: R74 | Pointer: 94
+Input: L94 | Pointer: 0
+> password current: 818
+Input: R36 | Pointer: 36
+Input: R37 | Pointer: 73
+Input: R51 | Pointer: 24
+Input: L435 | Pointer: 89
+Input: L40 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 819
+Input: R2 | Pointer: 2
+Input: R98 | Pointer: 0
+> password current: 820
+Input: R80 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 821
+Input: R68 | Pointer: 68
+Input: L68 | Pointer: 0
+> password current: 822
+Input: L842 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 823
+Input: R66 | Pointer: 66
+Input: L73 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 824
+Input: L80 | Pointer: 20
+Input: L66 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 825
+Input: L57 | Pointer: 43
+Input: R31 | Pointer: 74
+Input: R98 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 826
+Input: L10 | Pointer: 90
+Input: L32 | Pointer: 58
+Input: R97 | Pointer: 55
+Input: R24 | Pointer: 79
+Input: R79 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 827
+Input: L13 | Pointer: 87
+Input: R15 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 828
+Input: L350 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 829
+Input: R272 | Pointer: 72
+Input: R928 | Pointer: 0
+> password current: 830
+Input: R911 | Pointer: 11
+Input: R89 | Pointer: 0
+> password current: 831
+Input: R214 | Pointer: 14
+Input: R32 | Pointer: 46
+Input: L246 | Pointer: 0
+> password current: 832
+Input: R35 | Pointer: 35
+Input: R89 | Pointer: 24
+Input: L57 | Pointer: 67
+Input: R33 | Pointer: 0
+> password current: 833
+Input: R34 | Pointer: 34
+Input: R75 | Pointer: 9
+Input: R70 | Pointer: 79
+Input: L38 | Pointer: 41
+Input: L912 | Pointer: 29
+Input: L98 | Pointer: 31
+Input: L731 | Pointer: 0
+> password current: 834
+Input: R94 | Pointer: 94
+Input: R6 | Pointer: 0
+> password current: 835
+Input: L26 | Pointer: 74
+Input: L344 | Pointer: 30
+Input: L30 | Pointer: 0
+> password current: 836
+Input: R97 | Pointer: 97
+Input: L24 | Pointer: 73
+Input: L65 | Pointer: 8
+Input: L8 | Pointer: 0
+> password current: 837
+Input: R7 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 838
+Input: L793 | Pointer: 7
+Input: R465 | Pointer: 72
+Input: R18 | Pointer: 90
+Input: L62 | Pointer: 28
+Input: L3 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 839
+Input: R6 | Pointer: 6
+Input: L406 | Pointer: 0
+> password current: 840
+Input: R6 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 841
+Input: L27 | Pointer: 73
+Input: L66 | Pointer: 7
+Input: L107 | Pointer: 0
+> password current: 842
+Input: R10 | Pointer: 10
+Input: R90 | Pointer: 0
+> password current: 843
+Input: L15 | Pointer: 85
+Input: L285 | Pointer: 0
+> password current: 844
+Input: R21 | Pointer: 21
+Input: R17 | Pointer: 38
+Input: L74 | Pointer: 64
+Input: L264 | Pointer: 0
+> password current: 845
+Input: R65 | Pointer: 65
+Input: L68 | Pointer: 97
+Input: L43 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 846
+Input: L76 | Pointer: 24
+Input: R62 | Pointer: 86
+Input: L80 | Pointer: 6
+Input: R19 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 847
+Input: R58 | Pointer: 58
+Input: L58 | Pointer: 0
+> password current: 848
+Input: L56 | Pointer: 44
+Input: R864 | Pointer: 8
+Input: R84 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 849
+Input: L9 | Pointer: 91
+Input: R47 | Pointer: 38
+Input: L39 | Pointer: 99
+Input: L717 | Pointer: 82
+Input: L27 | Pointer: 55
+Input: L95 | Pointer: 60
+Input: R64 | Pointer: 24
+Input: R45 | Pointer: 69
+Input: L86 | Pointer: 83
+Input: L426 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 850
+Input: L42 | Pointer: 58
+Input: R72 | Pointer: 30
+Input: R25 | Pointer: 55
+Input: L47 | Pointer: 8
+Input: R394 | Pointer: 2
+Input: R17 | Pointer: 19
+Input: L19 | Pointer: 0
+> password current: 851
+Input: L10 | Pointer: 90
+Input: R919 | Pointer: 9
+Input: L27 | Pointer: 82
+Input: R24 | Pointer: 6
+Input: L65 | Pointer: 41
+Input: L79 | Pointer: 62
+Input: R64 | Pointer: 26
+Input: R274 | Pointer: 0
+> password current: 852
+Input: L90 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 853
+Input: R75 | Pointer: 75
+Input: R71 | Pointer: 46
+Input: R53 | Pointer: 99
+Input: L99 | Pointer: 0
+> password current: 854
+Input: R60 | Pointer: 60
+Input: L97 | Pointer: 63
+Input: R637 | Pointer: 0
+> password current: 855
+Input: L35 | Pointer: 65
+Input: L65 | Pointer: 0
+> password current: 856
+Input: L26 | Pointer: 74
+Input: R26 | Pointer: 0
+> password current: 857
+Input: L11 | Pointer: 89
+Input: R911 | Pointer: 0
+> password current: 858
+Input: R86 | Pointer: 86
+Input: L739 | Pointer: 47
+Input: L87 | Pointer: 60
+Input: L58 | Pointer: 2
+Input: L340 | Pointer: 62
+Input: R59 | Pointer: 21
+Input: R79 | Pointer: 0
+> password current: 859
+Input: L63 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 860
+Input: R94 | Pointer: 94
+Input: L6 | Pointer: 88
+Input: R11 | Pointer: 99
+Input: L28 | Pointer: 71
+Input: L89 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 861
+Input: L67 | Pointer: 33
+Input: L176 | Pointer: 57
+Input: R66 | Pointer: 23
+Input: R877 | Pointer: 0
+> password current: 862
+Input: R166 | Pointer: 66
+Input: L407 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 863
+Input: R21 | Pointer: 21
+Input: R2 | Pointer: 23
+Input: L565 | Pointer: 58
+Input: R7 | Pointer: 65
+Input: L65 | Pointer: 0
+> password current: 864
+Input: R90 | Pointer: 90
+Input: R58 | Pointer: 48
+Input: R52 | Pointer: 0
+> password current: 865
+Input: R60 | Pointer: 60
+Input: L660 | Pointer: 0
+> password current: 866
+Input: R21 | Pointer: 21
+Input: L4 | Pointer: 17
+Input: R507 | Pointer: 24
+Input: R15 | Pointer: 39
+Input: R761 | Pointer: 0
+> password current: 867
+Input: L31 | Pointer: 69
+Input: L508 | Pointer: 61
+Input: L97 | Pointer: 64
+Input: L764 | Pointer: 0
+> password current: 868
+Input: R13 | Pointer: 13
+Input: L26 | Pointer: 87
+Input: L84 | Pointer: 3
+Input: R559 | Pointer: 62
+Input: L226 | Pointer: 36
+Input: L39 | Pointer: 97
+Input: L22 | Pointer: 75
+Input: R86 | Pointer: 61
+Input: R9 | Pointer: 70
+Input: R69 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 869
+Input: R676 | Pointer: 76
+Input: L18 | Pointer: 58
+Input: R69 | Pointer: 27
+Input: R73 | Pointer: 0
+> password current: 870
+Input: R28 | Pointer: 28
+Input: L84 | Pointer: 44
+Input: R556 | Pointer: 0
+> password current: 871
+Input: L18 | Pointer: 82
+Input: R791 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 872
+Input: R47 | Pointer: 47
+Input: R44 | Pointer: 91
+Input: R116 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 873
+Input: R90 | Pointer: 90
+Input: L90 | Pointer: 0
+> password current: 874
+Input: L22 | Pointer: 78
+Input: R57 | Pointer: 35
+Input: R665 | Pointer: 0
+> password current: 875
+Input: L64 | Pointer: 36
+Input: R742 | Pointer: 78
+Input: R22 | Pointer: 0
+> password current: 876
+Input: L93 | Pointer: 7
+Input: L807 | Pointer: 0
+> password current: 877
+Input: L304 | Pointer: 96
+Input: R4 | Pointer: 0
+> password current: 878
+Input: L71 | Pointer: 29
+Input: R21 | Pointer: 50
+Input: R50 | Pointer: 0
+> password current: 879
+Input: R12 | Pointer: 12
+Input: L591 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 880
+Input: R76 | Pointer: 76
+Input: R54 | Pointer: 30
+Input: L25 | Pointer: 5
+Input: L305 | Pointer: 0
+> password current: 881
+Input: R45 | Pointer: 45
+Input: R55 | Pointer: 0
+> password current: 882
+Input: R17 | Pointer: 17
+Input: R37 | Pointer: 54
+Input: L165 | Pointer: 89
+Input: R22 | Pointer: 11
+Input: R84 | Pointer: 95
+Input: R58 | Pointer: 53
+Input: R79 | Pointer: 32
+Input: L632 | Pointer: 0
+> password current: 883
+Input: R79 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 884
+Input: R14 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 885
+Input: R622 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 886
+Input: L56 | Pointer: 44
+Input: L44 | Pointer: 0
+> password current: 887
+Input: R93 | Pointer: 93
+Input: R598 | Pointer: 91
+Input: L84 | Pointer: 7
+Input: R57 | Pointer: 64
+Input: L22 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 888
+Input: L90 | Pointer: 10
+Input: L86 | Pointer: 24
+Input: L35 | Pointer: 89
+Input: L20 | Pointer: 69
+Input: R153 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 889
+Input: L23 | Pointer: 77
+Input: R81 | Pointer: 58
+Input: R64 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 890
+Input: L36 | Pointer: 64
+Input: R21 | Pointer: 85
+Input: R199 | Pointer: 84
+Input: L29 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 891
+Input: L60 | Pointer: 40
+Input: R60 | Pointer: 0
+> password current: 892
+Input: R17 | Pointer: 17
+Input: L22 | Pointer: 95
+Input: R205 | Pointer: 0
+> password current: 893
+Input: R15 | Pointer: 15
+Input: R956 | Pointer: 71
+Input: L29 | Pointer: 42
+Input: L23 | Pointer: 19
+Input: L57 | Pointer: 62
+Input: R12 | Pointer: 74
+Input: R708 | Pointer: 82
+Input: R73 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 894
+Input: L49 | Pointer: 51
+Input: R8 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 895
+Input: L5 | Pointer: 95
+Input: R75 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 896
+Input: R80 | Pointer: 80
+Input: L80 | Pointer: 0
+> password current: 897
+Input: R793 | Pointer: 93
+Input: L20 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 898
+Input: R35 | Pointer: 35
+Input: R979 | Pointer: 14
+Input: R94 | Pointer: 8
+Input: R89 | Pointer: 97
+Input: R52 | Pointer: 49
+Input: R21 | Pointer: 70
+Input: R790 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 899
+Input: L24 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 900
+Input: L1 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 901
+Input: R61 | Pointer: 61
+Input: L23 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 902
+Input: L67 | Pointer: 33
+Input: R4 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 903
+Input: R29 | Pointer: 29
+Input: L29 | Pointer: 0
+> password current: 904
+Input: L57 | Pointer: 43
+Input: R29 | Pointer: 72
+Input: L72 | Pointer: 0
+> password current: 905
+Input: L11 | Pointer: 89
+Input: L489 | Pointer: 0
+> password current: 906
+Input: L16 | Pointer: 84
+Input: R4 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 907
+Input: R449 | Pointer: 49
+Input: R351 | Pointer: 0
+> password current: 908
+Input: L22 | Pointer: 78
+Input: L30 | Pointer: 48
+Input: L12 | Pointer: 36
+Input: L36 | Pointer: 0
+> password current: 909
+Input: L97 | Pointer: 3
+Input: R3 | Pointer: 6
+Input: L6 | Pointer: 0
+> password current: 910
+Input: R1 | Pointer: 1
+Input: R55 | Pointer: 56
+Input: L568 | Pointer: 88
+Input: R49 | Pointer: 37
+Input: R22 | Pointer: 59
+Input: R141 | Pointer: 0
+> password current: 911
+Input: L75 | Pointer: 25
+Input: R29 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 912
+Input: R9 | Pointer: 9
+Input: L9 | Pointer: 0
+> password current: 913
+Input: R42 | Pointer: 42
+Input: L15 | Pointer: 27
+Input: L22 | Pointer: 5
+Input: L67 | Pointer: 38
+Input: L993 | Pointer: 45
+Input: L14 | Pointer: 31
+Input: L9 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 914
+Input: L30 | Pointer: 70
+Input: L45 | Pointer: 25
+Input: L98 | Pointer: 27
+Input: R373 | Pointer: 0
+> password current: 915
+Input: L50 | Pointer: 50
+Input: R15 | Pointer: 65
+Input: R29 | Pointer: 94
+Input: R15 | Pointer: 9
+Input: R57 | Pointer: 66
+Input: R20 | Pointer: 86
+Input: L57 | Pointer: 29
+Input: R24 | Pointer: 53
+Input: L48 | Pointer: 5
+Input: L90 | Pointer: 15
+Input: L297 | Pointer: 18
+Input: R39 | Pointer: 57
+Input: R48 | Pointer: 5
+Input: R90 | Pointer: 95
+Input: R86 | Pointer: 81
+Input: L81 | Pointer: 0
+> password current: 916
+Input: L17 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 917
+Input: L590 | Pointer: 10
+Input: L610 | Pointer: 0
+> password current: 918
+Input: R50 | Pointer: 50
+Input: R268 | Pointer: 18
+Input: L22 | Pointer: 96
+Input: R982 | Pointer: 78
+Input: L78 | Pointer: 0
+> password current: 919
+Input: L85 | Pointer: 15
+Input: R85 | Pointer: 0
+> password current: 920
+Input: L60 | Pointer: 40
+Input: L1 | Pointer: 39
+Input: R137 | Pointer: 76
+Input: R24 | Pointer: 0
+> password current: 921
+Input: L862 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 922
+Input: L98 | Pointer: 2
+Input: R65 | Pointer: 67
+Input: R59 | Pointer: 26
+Input: R744 | Pointer: 70
+Input: L24 | Pointer: 46
+Input: L372 | Pointer: 74
+Input: R44 | Pointer: 18
+Input: L53 | Pointer: 65
+Input: R14 | Pointer: 79
+Input: L23 | Pointer: 56
+Input: L32 | Pointer: 24
+Input: L4 | Pointer: 20
+Input: L85 | Pointer: 35
+Input: L235 | Pointer: 0
+> password current: 923
+Input: R20 | Pointer: 20
+Input: R74 | Pointer: 94
+Input: L932 | Pointer: 62
+Input: L418 | Pointer: 44
+Input: L44 | Pointer: 0
+> password current: 924
+Input: L6 | Pointer: 94
+Input: L194 | Pointer: 0
+> password current: 925
+Input: R29 | Pointer: 29
+Input: R84 | Pointer: 13
+Input: L26 | Pointer: 87
+Input: L52 | Pointer: 35
+Input: R76 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 926
+Input: R75 | Pointer: 75
+Input: L75 | Pointer: 0
+> password current: 927
+Input: L34 | Pointer: 66
+Input: R34 | Pointer: 0
+> password current: 928
+Input: L27 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 929
+Input: L473 | Pointer: 27
+Input: R12 | Pointer: 39
+Input: R71 | Pointer: 10
+Input: R290 | Pointer: 0
+> password current: 930
+Input: R183 | Pointer: 83
+Input: R24 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 931
+Input: R83 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 932
+Input: R531 | Pointer: 31
+Input: L68 | Pointer: 63
+Input: L21 | Pointer: 42
+Input: L542 | Pointer: 0
+> password current: 933
+Input: R87 | Pointer: 87
+Input: R13 | Pointer: 0
+> password current: 934
+Input: L99 | Pointer: 1
+Input: R78 | Pointer: 79
+Input: R33 | Pointer: 12
+Input: L35 | Pointer: 77
+Input: L896 | Pointer: 81
+Input: R455 | Pointer: 36
+Input: L52 | Pointer: 84
+Input: L784 | Pointer: 0
+> password current: 935
+Input: R86 | Pointer: 86
+Input: L486 | Pointer: 0
+> password current: 936
+Input: L521 | Pointer: 79
+Input: R21 | Pointer: 0
+> password current: 937
+Input: L770 | Pointer: 30
+Input: L30 | Pointer: 0
+> password current: 938
+Input: R35 | Pointer: 35
+Input: L35 | Pointer: 0
+> password current: 939
+Input: L83 | Pointer: 17
+Input: R93 | Pointer: 10
+Input: L610 | Pointer: 0
+> password current: 940
+Input: R1 | Pointer: 1
+Input: L48 | Pointer: 53
+Input: L15 | Pointer: 38
+Input: L23 | Pointer: 15
+Input: L18 | Pointer: 97
+Input: R44 | Pointer: 41
+Input: L76 | Pointer: 65
+Input: R77 | Pointer: 42
+Input: L876 | Pointer: 66
+Input: L54 | Pointer: 12
+Input: R88 | Pointer: 0
+> password current: 941
+Input: L51 | Pointer: 49
+Input: R589 | Pointer: 38
+Input: L13 | Pointer: 25
+Input: R79 | Pointer: 4
+Input: R782 | Pointer: 86
+Input: R55 | Pointer: 41
+Input: R59 | Pointer: 0
+> password current: 942
+Input: L89 | Pointer: 11
+Input: L465 | Pointer: 46
+Input: L46 | Pointer: 0
+> password current: 943
+Input: R43 | Pointer: 43
+Input: R72 | Pointer: 15
+Input: R8 | Pointer: 23
+Input: L23 | Pointer: 0
+> password current: 944
+Input: L130 | Pointer: 70
+Input: R58 | Pointer: 28
+Input: R3 | Pointer: 31
+Input: R30 | Pointer: 61
+Input: R39 | Pointer: 0
+> password current: 945
+Input: L42 | Pointer: 58
+Input: R56 | Pointer: 14
+Input: L17 | Pointer: 97
+Input: L39 | Pointer: 58
+Input: L77 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 946
+Input: L54 | Pointer: 46
+Input: L65 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 947
+Input: R65 | Pointer: 65
+Input: L2 | Pointer: 63
+Input: R75 | Pointer: 38
+Input: L338 | Pointer: 0
+> password current: 948
+Input: L374 | Pointer: 26
+Input: L254 | Pointer: 72
+Input: L96 | Pointer: 76
+Input: L33 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 949
+Input: R168 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 950
+Input: L78 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 951
+Input: L59 | Pointer: 41
+Input: R15 | Pointer: 56
+Input: R87 | Pointer: 43
+Input: R57 | Pointer: 0
+> password current: 952
+Input: L32 | Pointer: 68
+Input: L2 | Pointer: 66
+Input: R85 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 953
+Input: R530 | Pointer: 30
+Input: R233 | Pointer: 63
+Input: L67 | Pointer: 96
+Input: L72 | Pointer: 24
+Input: R76 | Pointer: 0
+> password current: 954
+Input: R37 | Pointer: 37
+Input: L397 | Pointer: 40
+Input: R83 | Pointer: 23
+Input: L423 | Pointer: 0
+> password current: 955
+Input: R9 | Pointer: 9
+Input: L51 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 956
+Input: R36 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 957
+Input: L66 | Pointer: 34
+Input: L34 | Pointer: 0
+> password current: 958
+Input: R471 | Pointer: 71
+Input: L3 | Pointer: 68
+Input: R86 | Pointer: 54
+Input: R846 | Pointer: 0
+> password current: 959
+Input: R3 | Pointer: 3
+Input: L403 | Pointer: 0
+> password current: 960
+Input: L524 | Pointer: 76
+Input: L76 | Pointer: 0
+> password current: 961
+Input: L86 | Pointer: 14
+Input: R36 | Pointer: 50
+Input: L40 | Pointer: 10
+Input: R75 | Pointer: 85
+Input: R15 | Pointer: 0
+> password current: 962
+Input: L42 | Pointer: 58
+Input: R64 | Pointer: 22
+Input: L27 | Pointer: 95
+Input: L1 | Pointer: 94
+Input: R6 | Pointer: 0
+> password current: 963
+Input: R92 | Pointer: 92
+Input: R8 | Pointer: 0
+> password current: 964
+Input: L87 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 965
+Input: R732 | Pointer: 32
+Input: R68 | Pointer: 0
+> password current: 966
+Input: R69 | Pointer: 69
+Input: R931 | Pointer: 0
+> password current: 967
+Input: L687 | Pointer: 13
+Input: L37 | Pointer: 76
+Input: L51 | Pointer: 25
+Input: L43 | Pointer: 82
+Input: R30 | Pointer: 12
+Input: L10 | Pointer: 2
+Input: L382 | Pointer: 20
+Input: L20 | Pointer: 0
+> password current: 968
+Input: L455 | Pointer: 45
+Input: R93 | Pointer: 38
+Input: L71 | Pointer: 67
+Input: R92 | Pointer: 59
+Input: R64 | Pointer: 23
+Input: R91 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 969
+Input: R49 | Pointer: 49
+Input: L93 | Pointer: 56
+Input: R44 | Pointer: 0
+> password current: 970
+Input: L4 | Pointer: 96
+Input: R77 | Pointer: 73
+Input: L733 | Pointer: 40
+Input: R60 | Pointer: 0
+> password current: 971
+Input: L56 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 972
+Input: L25 | Pointer: 75
+Input: R42 | Pointer: 17
+Input: R61 | Pointer: 78
+Input: R519 | Pointer: 97
+Input: R76 | Pointer: 73
+Input: R8 | Pointer: 81
+Input: L81 | Pointer: 0
+> password current: 973
+Input: L283 | Pointer: 17
+Input: R62 | Pointer: 79
+Input: R31 | Pointer: 10
+Input: L90 | Pointer: 20
+Input: R23 | Pointer: 43
+Input: R39 | Pointer: 82
+Input: L789 | Pointer: 93
+Input: R91 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 974
+Input: R314 | Pointer: 14
+Input: R88 | Pointer: 2
+Input: R5 | Pointer: 7
+Input: L749 | Pointer: 58
+Input: L58 | Pointer: 0
+> password current: 975
+Input: R86 | Pointer: 86
+Input: L5 | Pointer: 81
+Input: L81 | Pointer: 0
+> password current: 976
+Input: R90 | Pointer: 90
+Input: R89 | Pointer: 79
+Input: L50 | Pointer: 29
+Input: R4 | Pointer: 33
+Input: R99 | Pointer: 32
+Input: L61 | Pointer: 71
+Input: R27 | Pointer: 98
+Input: L98 | Pointer: 0
+> password current: 977
+Input: L33 | Pointer: 67
+Input: L68 | Pointer: 99
+Input: R19 | Pointer: 18
+Input: L20 | Pointer: 98
+Input: L98 | Pointer: 0
+> password current: 978
+Input: L111 | Pointer: 89
+Input: L42 | Pointer: 47
+Input: L64 | Pointer: 83
+Input: R793 | Pointer: 76
+Input: R560 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 979
+Input: R22 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 980
+Input: R50 | Pointer: 50
+Input: R956 | Pointer: 6
+Input: L458 | Pointer: 48
+Input: R18 | Pointer: 66
+Input: L66 | Pointer: 0
+> password current: 981
+Input: L3 | Pointer: 97
+Input: R3 | Pointer: 0
+> password current: 982
+Input: L916 | Pointer: 84
+Input: L84 | Pointer: 0
+> password current: 983
+Input: R55 | Pointer: 55
+Input: R45 | Pointer: 0
+> password current: 984
+Input: R30 | Pointer: 30
+Input: R30 | Pointer: 60
+Input: L363 | Pointer: 97
+Input: R5 | Pointer: 2
+Input: L17 | Pointer: 85
+Input: L88 | Pointer: 97
+Input: L273 | Pointer: 24
+Input: R13 | Pointer: 37
+Input: R66 | Pointer: 3
+Input: L41 | Pointer: 62
+Input: R38 | Pointer: 0
+> password current: 985
+Input: R74 | Pointer: 74
+Input: L514 | Pointer: 60
+Input: R540 | Pointer: 0
+> password current: 986
+Input: R909 | Pointer: 9
+Input: R48 | Pointer: 57
+Input: L11 | Pointer: 46
+Input: R554 | Pointer: 0
+> password current: 987
+Input: R525 | Pointer: 25
+Input: R75 | Pointer: 0
+> password current: 988
+Input: L65 | Pointer: 35
+Input: R11 | Pointer: 46
+Input: L46 | Pointer: 0
+> password current: 989
+Input: L73 | Pointer: 27
+Input: R394 | Pointer: 21
+Input: R64 | Pointer: 85
+Input: L65 | Pointer: 20
+Input: R80 | Pointer: 0
+> password current: 990
+Input: L52 | Pointer: 48
+Input: L148 | Pointer: 0
+> password current: 991
+Input: L14 | Pointer: 86
+Input: L969 | Pointer: 17
+Input: L576 | Pointer: 41
+Input: L341 | Pointer: 0
+> password current: 992
+Input: L26 | Pointer: 74
+Input: R26 | Pointer: 0
+> password current: 993
+Input: R53 | Pointer: 53
+Input: R25 | Pointer: 78
+Input: L478 | Pointer: 0
+> password current: 994
+Input: R63 | Pointer: 63
+Input: R98 | Pointer: 61
+Input: L3 | Pointer: 58
+Input: R91 | Pointer: 49
+Input: R73 | Pointer: 22
+Input: R84 | Pointer: 6
+Input: L88 | Pointer: 18
+Input: L2 | Pointer: 16
+Input: R93 | Pointer: 9
+Input: R95 | Pointer: 4
+Input: L421 | Pointer: 83
+Input: R17 | Pointer: 0
+> password current: 995
+Input: R63 | Pointer: 63
+Input: R26 | Pointer: 89
+Input: L80 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 996
+Input: R31 | Pointer: 31
+Input: R358 | Pointer: 89
+Input: L80 | Pointer: 9
+Input: L53 | Pointer: 56
+Input: L98 | Pointer: 58
+Input: L58 | Pointer: 0
+> password current: 997
+Input: R82 | Pointer: 82
+Input: R18 | Pointer: 0
+> password current: 998
+Input: R77 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 999
+Input: R35 | Pointer: 35
+Input: L40 | Pointer: 95
+Input: R8 | Pointer: 3
+Input: R24 | Pointer: 27
+Input: R81 | Pointer: 8
+Input: L69 | Pointer: 39
+Input: R561 | Pointer: 0
+> password current: 1000
+Input: L56 | Pointer: 44
+Input: R99 | Pointer: 43
+Input: R48 | Pointer: 91
+Input: R9 | Pointer: 0
+> password current: 1001
+Input: L46 | Pointer: 54
+Input: L13 | Pointer: 41
+Input: L687 | Pointer: 54
+Input: L228 | Pointer: 26
+Input: L26 | Pointer: 0
+> password current: 1002
+Input: R318 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 1003
+Input: R476 | Pointer: 76
+Input: L6 | Pointer: 70
+Input: R73 | Pointer: 43
+Input: L7 | Pointer: 36
+Input: R48 | Pointer: 84
+Input: L884 | Pointer: 0
+> password current: 1004
+Input: R8 | Pointer: 8
+Input: R392 | Pointer: 0
+> password current: 1005
+Input: R78 | Pointer: 78
+Input: R94 | Pointer: 72
+Input: L472 | Pointer: 0
+> password current: 1006
+Input: R780 | Pointer: 80
+Input: R41 | Pointer: 21
+Input: R679 | Pointer: 0
+> password current: 1007
+Input: R14 | Pointer: 14
+Input: R41 | Pointer: 55
+Input: R69 | Pointer: 24
+Input: R226 | Pointer: 50
+Input: R64 | Pointer: 14
+Input: L914 | Pointer: 0
+> password current: 1008
+Input: L38 | Pointer: 62
+Input: L35 | Pointer: 27
+Input: L27 | Pointer: 0
+> password current: 1009
+Input: L38 | Pointer: 62
+Input: R35 | Pointer: 97
+Input: R31 | Pointer: 28
+Input: L769 | Pointer: 59
+Input: R79 | Pointer: 38
+Input: R42 | Pointer: 80
+Input: L82 | Pointer: 98
+Input: R904 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 1010
+Input: L711 | Pointer: 89
+Input: L20 | Pointer: 69
+Input: L69 | Pointer: 0
+> password current: 1011
+Input: R39 | Pointer: 39
+Input: R684 | Pointer: 23
+Input: R39 | Pointer: 62
+Input: L90 | Pointer: 72
+Input: R28 | Pointer: 0
+> password current: 1012
+Input: R75 | Pointer: 75
+Input: L13 | Pointer: 62
+Input: L37 | Pointer: 25
+Input: L11 | Pointer: 14
+Input: L78 | Pointer: 36
+Input: R333 | Pointer: 69
+Input: R31 | Pointer: 0
+> password current: 1013
+Input: R36 | Pointer: 36
+Input: L14 | Pointer: 22
+Input: L22 | Pointer: 0
+> password current: 1014
+Input: R37 | Pointer: 37
+Input: L78 | Pointer: 59
+Input: R6 | Pointer: 65
+Input: R5 | Pointer: 70
+Input: L470 | Pointer: 0
+> password current: 1015
+Input: L97 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 1016
+Input: R53 | Pointer: 53
+Input: R78 | Pointer: 31
+Input: L85 | Pointer: 46
+Input: R16 | Pointer: 62
+Input: L626 | Pointer: 36
+Input: R778 | Pointer: 14
+Input: L14 | Pointer: 0
+> password current: 1017
+Input: L50 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 1018
+Input: L44 | Pointer: 56
+Input: L8 | Pointer: 48
+Input: R11 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 1019
+Input: R73 | Pointer: 73
+Input: L4 | Pointer: 69
+Input: R1 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 1020
+Input: L90 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 1021
+Input: R763 | Pointer: 63
+Input: R609 | Pointer: 72
+Input: L72 | Pointer: 0
+> password current: 1022
+Input: R89 | Pointer: 89
+Input: R330 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 1023
+Input: L699 | Pointer: 1
+Input: L1 | Pointer: 0
+> password current: 1024
+Input: R76 | Pointer: 76
+Input: L40 | Pointer: 36
+Input: L4 | Pointer: 32
+Input: R26 | Pointer: 58
+Input: L2 | Pointer: 56
+Input: R72 | Pointer: 28
+Input: L22 | Pointer: 6
+Input: R85 | Pointer: 91
+Input: L91 | Pointer: 0
+> password current: 1025
+Input: R63 | Pointer: 63
+Input: R83 | Pointer: 46
+Input: R54 | Pointer: 0
+> password current: 1026
+Input: L51 | Pointer: 49
+Input: R51 | Pointer: 0
+> password current: 1027
+Input: R223 | Pointer: 23
+Input: L23 | Pointer: 0
+> password current: 1028
+Input: R36 | Pointer: 36
+Input: L26 | Pointer: 10
+Input: R42 | Pointer: 52
+Input: R781 | Pointer: 33
+Input: R3 | Pointer: 36
+Input: L36 | Pointer: 0
+> password current: 1029
+Input: L37 | Pointer: 63
+Input: R906 | Pointer: 69
+Input: L64 | Pointer: 5
+Input: R37 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 1030
+Input: R51 | Pointer: 51
+Input: R231 | Pointer: 82
+Input: L74 | Pointer: 8
+Input: L21 | Pointer: 87
+Input: R94 | Pointer: 81
+Input: L581 | Pointer: 0
+> password current: 1031
+Input: L14 | Pointer: 86
+Input: R64 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 1032
+Input: R485 | Pointer: 85
+Input: L85 | Pointer: 0
+> password current: 1033
+Input: L24 | Pointer: 76
+Input: R42 | Pointer: 18
+Input: R92 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 1034
+Input: L33 | Pointer: 67
+Input: L53 | Pointer: 14
+Input: R74 | Pointer: 88
+Input: R77 | Pointer: 65
+Input: L466 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 1035
+Input: L30 | Pointer: 70
+Input: R75 | Pointer: 45
+Input: R10 | Pointer: 55
+Input: L10 | Pointer: 45
+Input: L249 | Pointer: 96
+Input: L85 | Pointer: 11
+Input: R89 | Pointer: 0
+> password current: 1036
+Input: R95 | Pointer: 95
+Input: R24 | Pointer: 19
+Input: L82 | Pointer: 37
+Input: R93 | Pointer: 30
+Input: L22 | Pointer: 8
+Input: R10 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 1037
+Input: L5 | Pointer: 95
+Input: R5 | Pointer: 0
+> password current: 1038
+Input: L70 | Pointer: 30
+Input: R13 | Pointer: 43
+Input: L970 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 1039
+Input: R64 | Pointer: 64
+Input: R931 | Pointer: 95
+Input: L66 | Pointer: 29
+Input: R56 | Pointer: 85
+Input: R44 | Pointer: 29
+Input: L969 | Pointer: 60
+Input: R17 | Pointer: 77
+Input: L97 | Pointer: 80
+Input: L89 | Pointer: 91
+Input: R409 | Pointer: 0
+> password current: 1040
+Input: L19 | Pointer: 81
+Input: L45 | Pointer: 36
+Input: R64 | Pointer: 0
+> password current: 1041
+Input: L80 | Pointer: 20
+Input: L447 | Pointer: 73
+Input: R227 | Pointer: 0
+> password current: 1042
+Input: L684 | Pointer: 16
+Input: R218 | Pointer: 34
+Input: L420 | Pointer: 14
+Input: R86 | Pointer: 0
+> password current: 1043
+Input: R35 | Pointer: 35
+Input: R5 | Pointer: 40
+Input: L99 | Pointer: 41
+Input: L41 | Pointer: 0
+> password current: 1044
+Input: R58 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 1045
+Input: R28 | Pointer: 28
+Input: R17 | Pointer: 45
+Input: R57 | Pointer: 2
+Input: L57 | Pointer: 45
+Input: R88 | Pointer: 33
+Input: R4 | Pointer: 37
+Input: L62 | Pointer: 75
+Input: L56 | Pointer: 19
+Input: L76 | Pointer: 43
+Input: R54 | Pointer: 97
+Input: R39 | Pointer: 36
+Input: R19 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 1046
+Input: L95 | Pointer: 5
+Input: R76 | Pointer: 81
+Input: R119 | Pointer: 0
+> password current: 1047
+Input: L31 | Pointer: 69
+Input: R53 | Pointer: 22
+Input: L73 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 1048
+Input: L589 | Pointer: 11
+Input: R489 | Pointer: 0
+> password current: 1049
+Input: R74 | Pointer: 74
+Input: R73 | Pointer: 47
+Input: R55 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 1050
+Input: R314 | Pointer: 14
+Input: R746 | Pointer: 60
+Input: L31 | Pointer: 29
+Input: R817 | Pointer: 46
+Input: L446 | Pointer: 0
+> password current: 1051
+Input: L86 | Pointer: 14
+Input: L70 | Pointer: 44
+Input: R50 | Pointer: 94
+Input: R6 | Pointer: 0
+> password current: 1052
+Input: R138 | Pointer: 38
+Input: L138 | Pointer: 0
+> password current: 1053
+Input: L30 | Pointer: 70
+Input: R938 | Pointer: 8
+Input: L868 | Pointer: 40
+Input: R60 | Pointer: 0
+> password current: 1054
+Input: L60 | Pointer: 40
+Input: L77 | Pointer: 63
+Input: L263 | Pointer: 0
+> password current: 1055
+Input: L79 | Pointer: 21
+Input: R79 | Pointer: 0
+> password current: 1056
+Input: L27 | Pointer: 73
+Input: R26 | Pointer: 99
+Input: R550 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 1057
+Input: R5 | Pointer: 5
+Input: L5 | Pointer: 0
+> password current: 1058
+Input: L901 | Pointer: 99
+Input: R501 | Pointer: 0
+> password current: 1059
+Input: R59 | Pointer: 59
+Input: L459 | Pointer: 0
+> password current: 1060
+Input: R81 | Pointer: 81
+Input: R991 | Pointer: 72
+Input: L81 | Pointer: 91
+Input: R33 | Pointer: 24
+Input: L32 | Pointer: 92
+Input: L92 | Pointer: 0
+> password current: 1061
+Input: L409 | Pointer: 91
+Input: L18 | Pointer: 73
+Input: R27 | Pointer: 0
+> password current: 1062
+Input: R90 | Pointer: 90
+Input: L83 | Pointer: 7
+Input: R93 | Pointer: 0
+> password current: 1063
+Input: R25 | Pointer: 25
+Input: R675 | Pointer: 0
+> password current: 1064
+Input: R737 | Pointer: 37
+Input: L87 | Pointer: 50
+Input: R35 | Pointer: 85
+Input: L341 | Pointer: 44
+Input: R59 | Pointer: 3
+Input: L39 | Pointer: 64
+Input: L43 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 1065
+Input: L230 | Pointer: 70
+Input: R30 | Pointer: 0
+> password current: 1066
+Input: L34 | Pointer: 66
+Input: R34 | Pointer: 0
+> password current: 1067
+Input: R93 | Pointer: 93
+Input: R7 | Pointer: 0
+> password current: 1068
+Input: R11 | Pointer: 11
+Input: R89 | Pointer: 0
+> password current: 1069
+Input: L625 | Pointer: 75
+Input: R25 | Pointer: 0
+> password current: 1070
+Input: L83 | Pointer: 17
+Input: L66 | Pointer: 51
+Input: L645 | Pointer: 6
+Input: R710 | Pointer: 16
+Input: L15 | Pointer: 1
+Input: R958 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 1071
+Input: R44 | Pointer: 44
+Input: L55 | Pointer: 89
+Input: R32 | Pointer: 21
+Input: L58 | Pointer: 63
+Input: L63 | Pointer: 0
+> password current: 1072
+Input: L640 | Pointer: 60
+Input: L60 | Pointer: 0
+> password current: 1073
+Input: R2 | Pointer: 2
+Input: R741 | Pointer: 43
+Input: R79 | Pointer: 22
+Input: L31 | Pointer: 91
+Input: L691 | Pointer: 0
+> password current: 1074
+Input: L793 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 1075
+Input: L9 | Pointer: 91
+Input: R109 | Pointer: 0
+> password current: 1076
+Input: L35 | Pointer: 65
+Input: R44 | Pointer: 9
+Input: R83 | Pointer: 92
+Input: L86 | Pointer: 6
+Input: R217 | Pointer: 23
+Input: R721 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 1077
+Input: L82 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 1078
+Input: R88 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 1079
+Input: R33 | Pointer: 33
+Input: R58 | Pointer: 91
+Input: L691 | Pointer: 0
+> password current: 1080
+Input: L327 | Pointer: 73
+Input: L873 | Pointer: 0
+> password current: 1081
+Input: L18 | Pointer: 82
+Input: L36 | Pointer: 46
+Input: R21 | Pointer: 67
+Input: L91 | Pointer: 76
+Input: L244 | Pointer: 32
+Input: R68 | Pointer: 0
+> password current: 1082
+Input: R70 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 1083
+Input: R607 | Pointer: 7
+Input: L7 | Pointer: 0
+> password current: 1084
+Input: R17 | Pointer: 17
+Input: L88 | Pointer: 29
+Input: L43 | Pointer: 86
+Input: R66 | Pointer: 52
+Input: R67 | Pointer: 19
+Input: R81 | Pointer: 0
+> password current: 1085
+Input: R55 | Pointer: 55
+Input: L30 | Pointer: 25
+Input: L325 | Pointer: 0
+> password current: 1086
+Input: L3 | Pointer: 97
+Input: R3 | Pointer: 0
+> password current: 1087
+Input: R54 | Pointer: 54
+Input: R46 | Pointer: 0
+> password current: 1088
+Input: L19 | Pointer: 81
+Input: L26 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 1089
+Input: L7 | Pointer: 93
+Input: R218 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 1090
+Input: L20 | Pointer: 80
+Input: L48 | Pointer: 32
+Input: L82 | Pointer: 50
+Input: L50 | Pointer: 0
+> password current: 1091
+Input: L54 | Pointer: 46
+Input: R274 | Pointer: 20
+Input: L6 | Pointer: 14
+Input: L97 | Pointer: 17
+Input: R78 | Pointer: 95
+Input: R48 | Pointer: 43
+Input: R813 | Pointer: 56
+Input: L256 | Pointer: 0
+> password current: 1092
+Input: L32 | Pointer: 68
+Input: L58 | Pointer: 10
+Input: R41 | Pointer: 51
+Input: R49 | Pointer: 0
+> password current: 1093
+Input: L67 | Pointer: 33
+Input: R967 | Pointer: 0
+> password current: 1094
+Input: L88 | Pointer: 12
+Input: L25 | Pointer: 87
+Input: R2 | Pointer: 89
+Input: L84 | Pointer: 5
+Input: R95 | Pointer: 0
+> password current: 1095
+Input: R12 | Pointer: 12
+Input: L595 | Pointer: 17
+Input: L90 | Pointer: 27
+Input: L27 | Pointer: 0
+> password current: 1096
+Input: L58 | Pointer: 42
+Input: L59 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 1097
+Input: R51 | Pointer: 51
+Input: L151 | Pointer: 0
+> password current: 1098
+Input: L37 | Pointer: 63
+Input: R37 | Pointer: 0
+> password current: 1099
+Input: L85 | Pointer: 15
+Input: L415 | Pointer: 0
+> password current: 1100
+Input: R512 | Pointer: 12
+Input: R95 | Pointer: 7
+Input: L43 | Pointer: 64
+Input: L71 | Pointer: 93
+Input: R59 | Pointer: 52
+Input: R66 | Pointer: 18
+Input: R53 | Pointer: 71
+Input: R23 | Pointer: 94
+Input: L13 | Pointer: 81
+Input: R19 | Pointer: 0
+> password current: 1101
+Input: L56 | Pointer: 44
+Input: L14 | Pointer: 30
+Input: L64 | Pointer: 66
+Input: R47 | Pointer: 13
+Input: R87 | Pointer: 0
+> password current: 1102
+Input: L977 | Pointer: 23
+Input: L23 | Pointer: 0
+> password current: 1103
+Input: L35 | Pointer: 65
+Input: R8 | Pointer: 73
+Input: R83 | Pointer: 56
+Input: R449 | Pointer: 5
+Input: L5 | Pointer: 0
+> password current: 1104
+Input: L52 | Pointer: 48
+Input: R652 | Pointer: 0
+> password current: 1105
+Input: L65 | Pointer: 35
+Input: L90 | Pointer: 45
+Input: L28 | Pointer: 17
+Input: R283 | Pointer: 0
+> password current: 1106
+Input: L51 | Pointer: 49
+Input: L45 | Pointer: 4
+Input: R896 | Pointer: 0
+> password current: 1107
+Input: R661 | Pointer: 61
+Input: L361 | Pointer: 0
+> password current: 1108
+Input: R42 | Pointer: 42
+Input: L82 | Pointer: 60
+Input: R40 | Pointer: 0
+> password current: 1109
+Input: R2 | Pointer: 2
+Input: L2 | Pointer: 0
+> password current: 1110
+Input: L36 | Pointer: 64
+Input: L64 | Pointer: 0
+> password current: 1111
+Input: R35 | Pointer: 35
+Input: L378 | Pointer: 57
+Input: R43 | Pointer: 0
+> password current: 1112
+Input: L97 | Pointer: 3
+Input: L3 | Pointer: 0
+> password current: 1113
+Input: L33 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 1114
+Input: R83 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 1115
+Input: R77 | Pointer: 77
+Input: R36 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 1116
+Input: R87 | Pointer: 87
+Input: L76 | Pointer: 11
+Input: R6 | Pointer: 17
+Input: L62 | Pointer: 55
+Input: R59 | Pointer: 14
+Input: R166 | Pointer: 80
+Input: R372 | Pointer: 52
+Input: L1 | Pointer: 51
+Input: L38 | Pointer: 13
+Input: L13 | Pointer: 0
+> password current: 1117
+Input: R43 | Pointer: 43
+Input: R45 | Pointer: 88
+Input: L88 | Pointer: 0
+> password current: 1118
+Input: L80 | Pointer: 20
+Input: L29 | Pointer: 91
+Input: L791 | Pointer: 0
+> password current: 1119
+Input: L23 | Pointer: 77
+Input: L77 | Pointer: 0
+> password current: 1120
+Input: L137 | Pointer: 63
+Input: R937 | Pointer: 0
+> password current: 1121
+Input: L61 | Pointer: 39
+Input: R61 | Pointer: 0
+> password current: 1122
+Input: L6 | Pointer: 94
+Input: R57 | Pointer: 51
+Input: R20 | Pointer: 71
+Input: L71 | Pointer: 0
+> password current: 1123
+Input: L33 | Pointer: 67
+Input: L67 | Pointer: 0
+> password current: 1124
+Input: L89 | Pointer: 11
+Input: L8 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 1125
+Input: L7 | Pointer: 93
+Input: R518 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 1126
+Input: L35 | Pointer: 65
+Input: L44 | Pointer: 21
+Input: R52 | Pointer: 73
+Input: R20 | Pointer: 93
+Input: R107 | Pointer: 0
+> password current: 1127
+Input: R76 | Pointer: 76
+Input: L64 | Pointer: 12
+Input: L21 | Pointer: 91
+Input: L91 | Pointer: 0
+> password current: 1128
+Input: L61 | Pointer: 39
+Input: R261 | Pointer: 0
+> password current: 1129
+Input: R68 | Pointer: 68
+Input: R32 | Pointer: 0
+> password current: 1130
+Input: R57 | Pointer: 57
+Input: R65 | Pointer: 22
+Input: R78 | Pointer: 0
+> password current: 1131
+Input: R78 | Pointer: 78
+Input: L9 | Pointer: 69
+Input: L57 | Pointer: 12
+Input: L1 | Pointer: 11
+Input: L11 | Pointer: 0
+> password current: 1132
+Input: R64 | Pointer: 64
+Input: R299 | Pointer: 63
+Input: R67 | Pointer: 30
+Input: R71 | Pointer: 1
+Input: L659 | Pointer: 42
+Input: L534 | Pointer: 8
+Input: R35 | Pointer: 43
+Input: L743 | Pointer: 0
+> password current: 1133
+Input: R16 | Pointer: 16
+Input: R84 | Pointer: 0
+> password current: 1134
+Input: R757 | Pointer: 57
+Input: L39 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 1135
+Input: R55 | Pointer: 55
+Input: L93 | Pointer: 62
+Input: R60 | Pointer: 22
+Input: L69 | Pointer: 53
+Input: R47 | Pointer: 0
+> password current: 1136
+Input: R10 | Pointer: 10
+Input: L10 | Pointer: 0
+> password current: 1137
+Input: R69 | Pointer: 69
+Input: R431 | Pointer: 0
+> password current: 1138
+Input: R25 | Pointer: 25
+Input: R413 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 1139
+Input: L35 | Pointer: 65
+Input: R544 | Pointer: 9
+Input: R91 | Pointer: 0
+> password current: 1140
+Input: L2 | Pointer: 98
+Input: L77 | Pointer: 21
+Input: L721 | Pointer: 0
+> password current: 1141
+Input: L55 | Pointer: 45
+Input: L945 | Pointer: 0
+> password current: 1142
+Input: L94 | Pointer: 6
+Input: R327 | Pointer: 33
+Input: R814 | Pointer: 47
+Input: R55 | Pointer: 2
+Input: L79 | Pointer: 23
+Input: R768 | Pointer: 91
+Input: L91 | Pointer: 0
+> password current: 1143
+Input: L92 | Pointer: 8
+Input: L11 | Pointer: 97
+Input: L26 | Pointer: 71
+Input: R29 | Pointer: 0
+> password current: 1144
+Input: L98 | Pointer: 2
+Input: R254 | Pointer: 56
+Input: R24 | Pointer: 80
+Input: L45 | Pointer: 35
+Input: R65 | Pointer: 0
+> password current: 1145
+Input: R10 | Pointer: 10
+Input: L13 | Pointer: 97
+Input: R203 | Pointer: 0
+> password current: 1146
+Input: L31 | Pointer: 69
+Input: R31 | Pointer: 0
+> password current: 1147
+Input: L48 | Pointer: 52
+Input: L36 | Pointer: 16
+Input: R84 | Pointer: 0
+> password current: 1148
+Input: R29 | Pointer: 29
+Input: L29 | Pointer: 0
+> password current: 1149
+Input: L97 | Pointer: 3
+Input: R85 | Pointer: 88
+Input: R70 | Pointer: 58
+Input: R30 | Pointer: 88
+Input: R12 | Pointer: 0
+> password current: 1150
+Input: L87 | Pointer: 13
+Input: R224 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 1151
+Input: L35 | Pointer: 65
+Input: L65 | Pointer: 0
+> password current: 1152
+Input: R76 | Pointer: 76
+Input: L176 | Pointer: 0
+> password current: 1153
+Input: L40 | Pointer: 60
+Input: L60 | Pointer: 0
+> password current: 1154
+Input: R30 | Pointer: 30
+Input: L39 | Pointer: 91
+Input: L91 | Pointer: 0
+> password current: 1155
+Input: L23 | Pointer: 77
+Input: R23 | Pointer: 0
+> password current: 1156
+Input: L82 | Pointer: 18
+Input: R782 | Pointer: 0
+> password current: 1157
+Input: R977 | Pointer: 77
+Input: L40 | Pointer: 37
+Input: R44 | Pointer: 81
+Input: L60 | Pointer: 21
+Input: R49 | Pointer: 70
+Input: L486 | Pointer: 84
+Input: L36 | Pointer: 48
+Input: L778 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 1158
+Input: R45 | Pointer: 45
+Input: R93 | Pointer: 38
+Input: L38 | Pointer: 0
+> password current: 1159
+Input: L99 | Pointer: 1
+Input: L66 | Pointer: 35
+Input: R28 | Pointer: 63
+Input: L34 | Pointer: 29
+Input: R71 | Pointer: 0
+> password current: 1160
+Input: L419 | Pointer: 81
+Input: R81 | Pointer: 62
+Input: R38 | Pointer: 0
+> password current: 1161
+Input: L37 | Pointer: 63
+Input: R80 | Pointer: 43
+Input: L43 | Pointer: 0
+> password current: 1162
+Input: R75 | Pointer: 75
+Input: L13 | Pointer: 62
+Input: R38 | Pointer: 0
+> password current: 1163
+Input: L19 | Pointer: 81
+Input: R102 | Pointer: 83
+Input: L83 | Pointer: 0
+> password current: 1164
+Input: L58 | Pointer: 42
+Input: L10 | Pointer: 32
+Input: R257 | Pointer: 89
+Input: R711 | Pointer: 0
+> password current: 1165
+Input: L44 | Pointer: 56
+Input: L22 | Pointer: 34
+Input: L34 | Pointer: 0
+> password current: 1166
+Input: R52 | Pointer: 52
+Input: L59 | Pointer: 93
+Input: R815 | Pointer: 8
+Input: R592 | Pointer: 0
+> password current: 1167
+Input: L297 | Pointer: 3
+Input: R97 | Pointer: 0
+> password current: 1168
+Input: L66 | Pointer: 34
+Input: R30 | Pointer: 64
+Input: R99 | Pointer: 63
+Input: L835 | Pointer: 28
+Input: L73 | Pointer: 55
+Input: L55 | Pointer: 0
+> password current: 1169
+Input: R982 | Pointer: 82
+Input: L44 | Pointer: 38
+Input: R62 | Pointer: 0
+> password current: 1170
+Input: R56 | Pointer: 56
+Input: L6 | Pointer: 50
+Input: R916 | Pointer: 66
+Input: L64 | Pointer: 2
+Input: R14 | Pointer: 16
+Input: R899 | Pointer: 15
+Input: L42 | Pointer: 73
+Input: L73 | Pointer: 0
+> password current: 1171
+Input: R258 | Pointer: 58
+Input: R42 | Pointer: 0
+> password current: 1172
+Input: R320 | Pointer: 20
+Input: L184 | Pointer: 36
+Input: L3 | Pointer: 33
+Input: L76 | Pointer: 57
+Input: L98 | Pointer: 59
+Input: R41 | Pointer: 0
+> password current: 1173
+Input: R42 | Pointer: 42
+Input: L42 | Pointer: 0
+> password current: 1174
+Input: R25 | Pointer: 25
+Input: R22 | Pointer: 47
+Input: R53 | Pointer: 0
+> password current: 1175
+Input: R25 | Pointer: 25
+Input: L25 | Pointer: 0
+> password current: 1176
+Input: R79 | Pointer: 79
+Input: L361 | Pointer: 18
+Input: L18 | Pointer: 0
+> password current: 1177
+Input: R40 | Pointer: 40
+Input: L40 | Pointer: 0
+> password current: 1178
+Input: R70 | Pointer: 70
+Input: L70 | Pointer: 0
+> password current: 1179
+Input: L3 | Pointer: 97
+Input: R65 | Pointer: 62
+Input: R17 | Pointer: 79
+Input: L88 | Pointer: 91
+Input: L76 | Pointer: 15
+Input: R85 | Pointer: 0
+> password current: 1180
+Input: R21 | Pointer: 21
+Input: L21 | Pointer: 0
+> password current: 1181
+Input: R17 | Pointer: 17
+Input: R96 | Pointer: 13
+Input: R24 | Pointer: 37
+Input: R63 | Pointer: 0
+> password current: 1182
+Input: R15 | Pointer: 15
+Input: L15 | Pointer: 0
+> password current: 1183
+Input: R90 | Pointer: 90
+Input: L90 | Pointer: 0
+> password current: 1184
+Input: R98 | Pointer: 98
+Input: L3 | Pointer: 95
+Input: R87 | Pointer: 82
+Input: R37 | Pointer: 19
+Input: L70 | Pointer: 49
+Input: L49 | Pointer: 0
+> password current: 1185
+Input: L94 | Pointer: 6
+Input: R94 | Pointer: 0
+> password current: 1186
+Input: R93 | Pointer: 93
+Input: L93 | Pointer: 0
+> password current: 1187
+Input: R81 | Pointer: 81
+Input: L81 | Pointer: 0
+> password current: 1188
+Input: L26 | Pointer: 74
+Input: L74 | Pointer: 0
+> password current: 1189
+Input: L40 | Pointer: 60
+Input: L24 | Pointer: 36
+Input: R63 | Pointer: 99
+Input: R1 | Pointer: 0
+> password current: 1190
+Input: R44 | Pointer: 44
+Input: R56 | Pointer: 0
+> password current: 1191
+Input: R3 | Pointer: 3
+Input: L10 | Pointer: 93
+Input: L44 | Pointer: 49
+Input: L57 | Pointer: 92
+Input: R10 | Pointer: 2
+Input: L83 | Pointer: 19
+Input: R51 | Pointer: 70
+Input: R76 | Pointer: 46
+Input: R54 | Pointer: 0
+> password current: 1192
+Input: L69 | Pointer: 31
+Input: L27 | Pointer: 4
+Input: L4 | Pointer: 0
+> password current: 1193
+Input: L26 | Pointer: 74
+Input: L32 | Pointer: 42
+Input: L39 | Pointer: 3
+Input: L24 | Pointer: 79
+Input: L13 | Pointer: 66
+Input: L42 | Pointer: 24
+Input: R27 | Pointer: 51
+Input: L26 | Pointer: 25
+Input: L4 | Pointer: 21
+Input: R22 | Pointer: 43
+Input: L50 | Pointer: 93
+Input: R18 | Pointer: 11
+Input: L13 | Pointer: 98
+Input: R43 | Pointer: 41
+Input: R24 | Pointer: 65
+Input: R28 | Pointer: 93
+Input: L24 | Pointer: 69
+Input: R45 | Pointer: 14
+Input: L17 | Pointer: 97
+Input: L19 | Pointer: 78
+Input: L22 | Pointer: 56
+Input: R39 | Pointer: 95
+Input: R44 | Pointer: 39
+Input: L4 | Pointer: 35
+Input: R42 | Pointer: 77
+Input: L20 | Pointer: 57
+Input: L26 | Pointer: 31
+Input: L49 | Pointer: 82
+Input: L28 | Pointer: 54
+Input: R30 | Pointer: 84
+Input: L10 | Pointer: 74
+Input: L29 | Pointer: 45
+Input: R6 | Pointer: 51
+Input: R26 | Pointer: 77
+Input: L28 | Pointer: 49
+Input: L34 | Pointer: 15
+Input: R14 | Pointer: 29
+Input: L28 | Pointer: 1
+Input: L28 | Pointer: 73
+Input: R6 | Pointer: 79
+Input: R23 | Pointer: 2
+Input: L28 | Pointer: 74
+Input: R33 | Pointer: 7
+Input: L19 | Pointer: 88
+Input: R6 | Pointer: 94
+Input: L22 | Pointer: 72
+Input: R42 | Pointer: 14
+Input: L14 | Pointer: 0
+> password current: 1194
+Input: L41 | Pointer: 59
+Input: L5 | Pointer: 54
+The password detected, is: 1195
