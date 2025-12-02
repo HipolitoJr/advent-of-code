@@ -18,7 +18,12 @@ for input in inputs
 		else
 			next
 		end
-		@password += 1 if @pointer == 0
+	end
+	puts "Input: #{rotation_direction}#{rotation_size} | Pointer: #{@pointer}"
+
+	if @pointer == 0
+		puts "> password current: #{@password}"
+		@password += 1
 	end
 end
 
